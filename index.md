@@ -14,7 +14,7 @@ You can reach me out at mingyu.lu[at]philips[dot]com or mingyulu[at]mit[dot]edu
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
 
-## Publications
+## Publications. [my google scholar page](https://scholar.google.com/citations?user=Hp7cv5kAAAAJ&hl=en)
 ### Conference
 - **MingYu Lu**, Zach Shah, Finale Doshi Velez, Li-Wei Lehman. Sensitivity Analysis of Deep Reinforcement Learning for Sepsis Treatment. **AMIA 2020**. [pdf](https://arxiv.org/abs/2005.04301)
 
