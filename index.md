@@ -14,10 +14,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum a
 
 ## Publications
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
-
-
 1. MingYu Lu, Zach Shah, Finale Doshi Velez, Li-Wei Lehman. Sensitivity Analysis of Deep Reinforcement Learning for Sepsis Treatment. AMIA 2020.
 
 2. Niklas Rindtorff, MingYu Lu, Nisarg Patel, Huahua Zheng, and Alexander D’Amour. A Biologically Plausible Benchmark for Contextual Bandit Algorithms in Precision Oncology Using in vitro Data. Machine Learning for Health (ML4H) Workshop at NeurIPS 2019.
