@@ -23,7 +23,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum a
 4. **MingYu Lu**, Chenyu Lu, Jingyi Chen, Leo Anthony Celi. Predicting Hemodilution with Machine Learning. Beth Israel Deaconess Medical Center Artificial Intelligence/Machine Learning Symposium 2020
 
 
-## Typography
+## Leadership/Awards
 
 This is a [link](http://google.com). Something *italics* and something **bold**.
 
@@ -31,11 +31,9 @@ Here is a table
 
 Year | Award | Category
 -----|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
-
-Here is a horizontal rule
+2014 | LEAP fellowship  | LEAP Fellowship of the Ministry of Science and Technology of Taiwan 2019. Exclusively for applicants who have M.D. degree or Ph.D. degree with significant academic achievement, data analytics, statistical, and programming experience.
+2014 | CIO |  Chief Information Officer of KMU Class of 2017
+2013 | PResident of Guitar Club Leader | Kaohsiung Medical University
 
 ---
 
