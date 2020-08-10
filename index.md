@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## MingYu Lu
+## About Me
 
 <img class="profile-picture" src="sherlock.jpg">
 
