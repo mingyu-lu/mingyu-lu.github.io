@@ -31,9 +31,9 @@ Here is a table
 
 Year | Award | Category
 -----|-------|--------
-2014 | LEAP fellowship  | LEAP Fellowship of the Ministry of Science and Technology of Taiwan 2019. Exclusively for applicants who have M.D. degree or Ph.D. degree with significant academic achievement, data analytics, statistical, and programming experience.
+2019 |  LEAP Fellowship of the Ministry of Science and Technology of Taiwan 2019 | Exclusively for applicants who have M.D. degree or Ph.D. degree with significant academic achievement, data analytics, statistical, and programming experience.
 2014 | CIO |  Chief Information Officer of KMU Class of 2017
-2013 | PResident of Guitar Club Leader | Kaohsiung Medical University
+2013 | President of Guitar Club Leader | Kaohsiung Medical University
 
 ---
 
