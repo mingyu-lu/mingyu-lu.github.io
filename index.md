@@ -8,7 +8,6 @@ layout: default
 
 Hi!I am a Clinical Data Scientist at Philips Research North America. Prior to joining Philips, I was a postdoctoral researcher at [Laboratory for Computational Physiology](https://lcp.mit.edu/) at MIT and completed a MD degree at Kaohsiung Medical School and a Master of Biomedical Informatics at Harvard Medcial School. During my time in medical school, I also cofounded [TheTinyNote](https://www.thetinynotes.com), a website of physician-authored clinical decision support resources, allowing medical professionals to follow the more than 1500+ latest guidelines of diseases and clinical inquiry. 
 
-
 You can reach me out at mingyu.lu[at]philips[dot]com or mingyulu[at]mit[dot]edu
 
 ## Research Interest
@@ -22,11 +21,12 @@ I work on Machine learning for Healthcare, ML4H, more specifically, I studies se
 ### Workshop
 - Niklas Rindtorff, **MingYu Lu**, Nisarg Patel, Huahua Zheng, and Alexander D’Amour. A Biologically Plausible Benchmark for Contextual Bandit Algorithms in Precision Oncology Using in vitro Data. Machine Learning for **Health (ML4H) Workshop at NeurIPS 2019**. [pdf](https://arxiv.org/abs/1911.04389)
 
+### Abstract & Symposium:
+- **MingYu Lu**, Chenyu Lu, Jingyi Chen, Leo Anthony Celi. Predicting Hemodilution with Machine Learning. **Beth Israel Deaconess Medical Center Artificial Intelligence/Machine Learning Symposium 2020**
+
 ### Preprint
 - Rui Li, Zach Shahn(co-first authors), Jun Li, **MingYu Lu**, Prithwish Chakraborty, Daby Sow, Mohamed Ghalwash, Li-wei H Lehman. G-Net: A Deep Learning Approach to G-computation for Counterfactual Outcome Prediction Under Dynamic Treatment Regimes. [pdf](https://arxiv.org/abs/2003.10551)
 
-### Abstract & Symposium:
-- **MingYu Lu**, Chenyu Lu, Jingyi Chen, Leo Anthony Celi. Predicting Hemodilution with Machine Learning. **Beth Israel Deaconess Medical Center Artificial Intelligence/Machine Learning Symposium 2020**
 
 [my google scholar page](https://scholar.google.com/citations?user=Hp7cv5kAAAAJ&hl=en)
 
