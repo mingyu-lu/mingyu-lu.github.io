@@ -18,9 +18,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum a
 
 2. Niklas Rindtorff, **MingYu Lu**, Nisarg Patel, Huahua Zheng, and Alexander D’Amour. A Biologically Plausible Benchmark for Contextual Bandit Algorithms in Precision Oncology Using in vitro Data. Machine Learning for Health (ML4H) Workshop at NeurIPS 2019. [ArXiv](https://arxiv.org/abs/1911.04389)
 
-3. **MingYu Lu**, Chenyu Lu, Jingyi Chen, Leo Anthony Celi. Predicting Hemodilution with Machine Learning. Beth Israel Deaconess Medical Center Artificial Intelligence/Machine Learning Symposium 2020
+3. Rui Li, Zach Shahn(co-first authors), Jun Li, **MingYu Lu**, Prithwish Chakraborty, Daby Sow, Mohamed Ghalwash, Li-wei H Lehman. G-Net: A Deep Learning Approach to G-computation for Counterfactual Outcome Prediction Under Dynamic Treatment Regimes. [ArXiv](https://arxiv.org/abs/2003.10551)
 
-4. Rui Li, Zach Shahn(co-first authors), Jun Li, **MingYu Lu**, Prithwish Chakraborty, Daby Sow, Mohamed Ghalwash, Li-wei H Lehman. G-Net: A Deep Learning Approach to G-computation for Counterfactual Outcome Prediction Under Dynamic Treatment Regimes. [ArXiv](https://arxiv.org/abs/2003.10551)
+4. **MingYu Lu**, Chenyu Lu, Jingyi Chen, Leo Anthony Celi. Predicting Hemodilution with Machine Learning. Beth Israel Deaconess Medical Center Artificial Intelligence/Machine Learning Symposium 2020
+
 
 ## Typography
 
