@@ -8,6 +8,8 @@ layout: default
 
 Hi!I am a Clinical Data Scientist at Philips Research North America. Prior to joining Philips, I was a postdoctoral researcher at [Laboratory for Computational Physiology](https://lcp.mit.edu/) at MIT and completed a MD degree at Kaohsiung Medical School and a Master of Biomedical Informatics at Harvard Medcial School. 
 
+You can reach me out at mingyu.lu[at]philips[dot]com or mingyulu[at]mit[dot]edu
+
 ## Research Interest
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
