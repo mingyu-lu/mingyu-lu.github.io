@@ -17,6 +17,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum a
 1. F.Bar, J.Doe: Effects of having a placeholder of a name
 2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
 
+
+1. MingYu Lu, Zach Shah, Finale Doshi Velez, Li-Wei Lehman. Sensitivity Analysis of Deep Reinforcement Learning for Sepsis Treatment. AMIA 2020.
+
+2. Niklas Rindtorff, MingYu Lu, Nisarg Patel, Huahua Zheng, and Alexander D’Amour. A Biologically Plausible Benchmark for Contextual Bandit Algorithms in Precision Oncology Using in vitro Data. Machine Learning for Health (ML4H) Workshop at NeurIPS 2019.
+
+3. MingYu Lu, Chenyu Lu, Jingyi Chen, Leo Anthony Celi. Predicting Hemodilution with Machine Learning. Beth Israel Deaconess Medical Center Artificial Intelligence/Machine Learning Symposium 2020
+
+4. Rui Li, Zach Shahn(co-first authors), Jun Li, MingYu Lu, Prithwish Chakraborty, Daby Sow, Mohamed Ghalwash, Li-wei H Lehman. G-Net: A Deep Learning Approach to G-computation for Counterfactual Outcome Prediction Under Dynamic Treatment Regimes. 
+
 ## Typography
 
 This is a [link](http://google.com). Something *italics* and something **bold**.
