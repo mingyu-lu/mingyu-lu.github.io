@@ -6,9 +6,7 @@ layout: default
 
 <img class="profile-picture" src="sherlock.jpg">
 
-Hi!I am a Clinical Data Scientist at Philips Research North America. Prior to joining Philips, I was a postdoctoral researcher at [Laboratory for Computational Physiology](https://lcp.mit.edu/) at MIT and completed a MD degree at Kaohsiung Medical School and a Master of Biomedical Informatics at Harvard Medcial School. 
-
-You can reach me out at mingyu.lu[at]philips[dot]com or mingyulu[at]mit[dot]edu
+> Hi!I am a Clinical Data Scientist at Philips Research North America. Prior to joining Philips, I was a postdoctoral researcher at [Laboratory for Computational Physiology](https://lcp.mit.edu/) at MIT and completed a MD degree at Kaohsiung Medical School and a Master of Biomedical Informatics at Harvard Medcial School. You can reach me out at mingyu.lu[at]philips[dot]com or mingyulu[at]mit[dot]edu
 
 ## Research Interest
 
