@@ -15,13 +15,13 @@ You can reach me out at mingyu.lu[at]philips[dot]com or mingyulu[at]mit[dot]edu
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
 
 ## Conference
-1. **MingYu Lu**, Zach Shah, Finale Doshi Velez, Li-Wei Lehman. Sensitivity Analysis of Deep Reinforcement Learning for Sepsis Treatment. AMIA 2020. [pdf](https://arxiv.org/abs/2005.04301)
+- **MingYu Lu**, Zach Shah, Finale Doshi Velez, Li-Wei Lehman. Sensitivity Analysis of Deep Reinforcement Learning for Sepsis Treatment. AMIA 2020. [pdf](https://arxiv.org/abs/2005.04301)
 ## Workshop
-2. Niklas Rindtorff, **MingYu Lu**, Nisarg Patel, Huahua Zheng, and Alexander D’Amour. A Biologically Plausible Benchmark for Contextual Bandit Algorithms in Precision Oncology Using in vitro Data. Machine Learning for Health (ML4H) Workshop at NeurIPS 2019. [pdf](https://arxiv.org/abs/1911.04389)
+- Niklas Rindtorff, **MingYu Lu**, Nisarg Patel, Huahua Zheng, and Alexander D’Amour. A Biologically Plausible Benchmark for Contextual Bandit Algorithms in Precision Oncology Using in vitro Data. Machine Learning for Health (ML4H) Workshop at NeurIPS 2019. [pdf](https://arxiv.org/abs/1911.04389)
 ## Preprint
-3. Rui Li, Zach Shahn(co-first authors), Jun Li, **MingYu Lu**, Prithwish Chakraborty, Daby Sow, Mohamed Ghalwash, Li-wei H Lehman. G-Net: A Deep Learning Approach to G-computation for Counterfactual Outcome Prediction Under Dynamic Treatment Regimes. [pdf](https://arxiv.org/abs/2003.10551)
+- Rui Li, Zach Shahn(co-first authors), Jun Li, **MingYu Lu**, Prithwish Chakraborty, Daby Sow, Mohamed Ghalwash, Li-wei H Lehman. G-Net: A Deep Learning Approach to G-computation for Counterfactual Outcome Prediction Under Dynamic Treatment Regimes. [pdf](https://arxiv.org/abs/2003.10551)
 ## Abstract & Symposium:
-4. **MingYu Lu**, Chenyu Lu, Jingyi Chen, Leo Anthony Celi. Predicting Hemodilution with Machine Learning. Beth Israel Deaconess Medical Center Artificial Intelligence/Machine Learning Symposium 2020
+- **MingYu Lu**, Chenyu Lu, Jingyi Chen, Leo Anthony Celi. Predicting Hemodilution with Machine Learning. Beth Israel Deaconess Medical Center Artificial Intelligence/Machine Learning Symposium 2020
 
 
 ## Leadership/Awards
