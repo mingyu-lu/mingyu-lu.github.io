@@ -31,7 +31,7 @@ I work on Machine learning for Healthcare, ML4H, more specifically, I studies se
 [my google scholar page](https://scholar.google.com/citations?user=Hp7cv5kAAAAJ&hl=en)
 
 ## Leadership/Awards
---- 
+
 
 Year | Award | Category
 -----|-------|--------
@@ -39,11 +39,6 @@ Year | Award | Category
 2014 | CIO |  Chief Information Officer of KMU Class of 2017
 2013 | President of Guitar Club Leader | Kaohsiung Medical University
 
----
-
-Here is a blockquote
-
-> To a great mind, nothing is little
 
 ## References
 
