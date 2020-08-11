@@ -14,7 +14,7 @@ You can find me on [Linkendin](https://www.linkedin.com/in/min-yu-lu-128410108/)
 
 I work on Machine learning for Healthcare, ML4H, more specifically, I studies sequencial decision making (reinforcement learning) and counterfactual prediction (g-methods). 
 
-## Publications. 
+## Publications
 ### Conference
 - **MingYu Lu**, Zach Shah, Finale Doshi Velez, Li-Wei Lehman. Sensitivity Analysis of Deep Reinforcement Learning for Sepsis Treatment. **AMIA 2020**. [pdf](https://arxiv.org/abs/2005.04301)
 
