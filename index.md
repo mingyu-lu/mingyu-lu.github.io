@@ -38,8 +38,3 @@ Year | Award | Category
 2014 | CIO |  Chief Information Officer of KMU Class of 2017
 2013 | President of Guitar Club Leader | Kaohsiung Medical University
 
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
