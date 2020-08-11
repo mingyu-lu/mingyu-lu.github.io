@@ -28,7 +28,7 @@ I work on Machine learning for Healthcare, ML4H, more specifically, I studies se
 - Rui Li, Zach Shahn(co-first authors), Jun Li, **MingYu Lu**, Prithwish Chakraborty, Daby Sow, Mohamed Ghalwash, Li-wei H Lehman. G-Net: A Deep Learning Approach to G-computation for Counterfactual Outcome Prediction Under Dynamic Treatment Regimes. [pdf](https://arxiv.org/abs/2003.10551)
 
 
-[<img src="google_scholar.jpg">](https://scholar.google.com/citations?user=Hp7cv5kAAAAJ&hl=en)
+[<img src="google_scholar.png">](https://scholar.google.com/citations?user=Hp7cv5kAAAAJ&hl=en)
 
 ## Leadership/Awards
 
