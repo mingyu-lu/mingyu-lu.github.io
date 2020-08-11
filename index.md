@@ -18,16 +18,16 @@ My research mainly focuses on Machine learning for Healthcare, ML4H. More specif
 [my google scholar](https://scholar.google.com/citations?user=Hp7cv5kAAAAJ&hl=en)
 
 ### Conference
-- **MingYu Lu**, Zach Shah, Finale Doshi Velez, Li-Wei Lehman. Sensitivity Analysis of Deep Reinforcement Learning for Sepsis Treatment. **AMIA 2020**. [pdf](https://arxiv.org/abs/2005.04301)
+- **MingYu Lu**, Zach Shah, Finale Doshi Velez, Li-Wei Lehman. Sensitivity Analysis of Deep Reinforcement Learning for Sepsis Treatment. **AMIA 2020**. [[paper]](https://arxiv.org/abs/2005.04301)
 
 ### Workshop
-- Niklas Rindtorff, **MingYu Lu**, Nisarg Patel, Huahua Zheng, and Alexander D’Amour. A Biologically Plausible Benchmark for Contextual Bandit Algorithms in Precision Oncology Using in vitro Data. Machine Learning for **Health (ML4H) Workshop at NeurIPS 2019**. [pdf](https://arxiv.org/abs/1911.04389)
+- Niklas Rindtorff, **MingYu Lu**, Nisarg Patel, Huahua Zheng, and Alexander D’Amour. A Biologically Plausible Benchmark for Contextual Bandit Algorithms in Precision Oncology Using in vitro Data. Machine Learning for **Health (ML4H) Workshop at NeurIPS 2019**. [[paper]](https://arxiv.org/abs/1911.04389)
 
 ### Abstract & Symposium:
 - **MingYu Lu**, Chenyu Lu, Jingyi Chen, Leo Anthony Celi. Predicting Hemodilution with Machine Learning. **Beth Israel Deaconess Medical Center Artificial Intelligence/Machine Learning Symposium 2020**
 
 ### Preprint
-- Rui Li, Zach Shahn(co-first authors), Jun Li, **MingYu Lu**, Prithwish Chakraborty, Daby Sow, Mohamed Ghalwash, Li-wei H Lehman. G-Net: A Deep Learning Approach to G-computation for Counterfactual Outcome Prediction Under Dynamic Treatment Regimes. [pdf](https://arxiv.org/abs/2003.10551)
+- Rui Li, Zach Shahn(co-first authors), Jun Li, **MingYu Lu**, Prithwish Chakraborty, Daby Sow, Mohamed Ghalwash, Li-wei H Lehman. G-Net: A Deep Learning Approach to G-computation for Counterfactual Outcome Prediction Under Dynamic Treatment Regimes. [[paper]](https://arxiv.org/abs/2003.10551)
 
 ## Leadership/Awards
 
