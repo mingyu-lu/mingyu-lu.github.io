@@ -8,7 +8,7 @@ layout: default
 
 Hi!I am a Clinical Data Scientist at Philips Research North America. Prior to joining Philips, I was a postdoctoral researcher at [Laboratory for Computational Physiology](https://lcp.mit.edu/) at MIT and completed a MD degree at Kaohsiung Medical School and a Master of Biomedical Informatics at Harvard Medcial School. During my time in medical school, I also cofounded [TheTinyNote](https://www.thetinynotes.com), a website of physician-authored clinical decision support resources, allowing medical professionals to follow the more than 1500+ latest guidelines of diseases and clinical inquiry. 
 
-You can find me on [Linkendin](https://www.linkedin.com/in/min-yu-lu-128410108/) or reach out to me at mingyu.lu[at]philips[dot]com or mingyulu[at]mit[dot]edu
+You can reach out to me at mingyu.lu[at]philips[dot]com or mingyulu[at]mit[dot]edu
 ## Research Interest
 
 My research mainly focuses on Machine learning for Healthcare, ML4H. More specifically, I studies sequencial decision making (reinforcement learning) and counterfactual prediction (g-methods). 
