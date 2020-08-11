@@ -34,7 +34,7 @@ My research mainly focuses on Machine learning for Healthcare, ML4H. More specif
 
 Year | Leadership/Awards
 -----|---------------
-2019 |  LEAP Fellowship of the Ministry of Science and Technology of Taiwan, Exclusively for applicants who have M.D. degree or Ph.D. degree with significant academic achievement, data analytics, statistical, and programming experience.
+2019 | LEAP Fellowship of the Ministry of Science and Technology of Taiwan. 
 2014 | Chief Information Officer of KMU Class of 2017
 2013 | President of Guitar Club Leader, Kaohsiung Medical University
 
