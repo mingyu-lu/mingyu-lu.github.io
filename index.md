@@ -11,7 +11,7 @@ Hi!I am a Clinical Data Scientist at Philips Research North America. Prior to jo
 You can find me on [Linkendin](https://www.linkedin.com/in/min-yu-lu-128410108/) or reach out to me at mingyu.lu[at]philips[dot]com or mingyulu[at]mit[dot]edu
 ## Research Interest
 
-I work on Machine learning for Healthcare, ML4H, more specifically, I studies sequencial decision making (reinforcement learning) and counterfactual prediction (g-methods). 
+My research mainly focuses on Machine learning for Healthcare, ML4H. More specifically, I studies sequencial decision making (reinforcement learning) and counterfactual prediction (g-methods). 
 
 ## Publications 
 
