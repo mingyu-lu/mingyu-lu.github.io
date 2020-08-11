@@ -15,5 +15,9 @@ sass:
     sass_dir: _sass
 
 nav:
+ - name: "Linkinden"
+   link: "https://www.linkedin.com/in/min-yu-lu-128410108/"
+ - name: "Github"
+   link: "https://github.com/q8888620002"
  - name: "CV"
    link: "latest_CV.pdf"
