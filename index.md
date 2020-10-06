@@ -24,6 +24,7 @@ My research mainly focuses on Machine learning for Healthcare, ML4H. More specif
 
 #### Abstract & Symposium:
 - **MingYu Lu**, Chenyu Lu, Jingyi Chen, Leo Anthony Celi. Predicting Hemodilution with Machine Learning. **Beth Israel Deaconess Medical Center Artificial Intelligence/Machine Learning Symposium 2020**
+- Rui Li, Zach Shahn, Jun Li, **Mingyu Lu**, Prithwish Chakraborty, Daby Sow, Mohamed Ghalwash, Li-wei H. Lehman. Learning Optimal DTRS From Temporal Icu Monitoring Data. **MIT-IBM Watson AI Lab Virtual Poster Session 2020**
 
 #### Preprint
 - Rui Li, Zach Shahn(co-first authors), Jun Li, **MingYu Lu**, Prithwish Chakraborty, Daby Sow, Mohamed Ghalwash, Li-wei H Lehman. G-Net: A Deep Learning Approach to G-computation for Counterfactual Outcome Prediction Under Dynamic Treatment Regimes. [[paper]](https://arxiv.org/abs/2003.10551)
