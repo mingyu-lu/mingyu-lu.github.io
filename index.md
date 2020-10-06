@@ -36,6 +36,7 @@ Year | Leadership/Awards
 -----|---------------
 2020 | Organizer of NewInML at NeurIPS 2020 
 2019 | LEAP Fellowship of the Ministry of Science and Technology of Taiwan. 
+2017 | CoFounder of [[TinyNote]](https://thetinynotes.com/)
 2014 | Chief Information Officer of Kaohsiung Medical University Class of 2017
-2013 | President of Guitar Club Leader Kaohsiung Medical University
+2013 | President of Guitar Club Kaohsiung Medical University
 
