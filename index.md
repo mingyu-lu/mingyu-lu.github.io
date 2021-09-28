@@ -6,9 +6,9 @@ layout: default
 
 <img class="profile-picture" src="sherlock.jpg">
 
-Hi!I am a Clinical Data Scientist at Philips Research North America. Prior to joining Philips, I was a postdoctoral researcher at [Laboratory for Computational Physiology](https://lcp.mit.edu/) at MIT and completed a MD degree at Kaohsiung Medical University and a Master of Biomedical Informatics at Harvard Medcial School. During my time in medical school, I cofounded [TheTinyNote](https://www.thetinynotes.com), a website of physician-authored clinical decision support resources, allowing medical professionals to follow the more than 1500+ latest guidelines of diseases and clinical inquiry. 
+Hi! I am a 1st year CSE phd student at University of Wahsington, advised by Su-In Lee. Prior to UW, I was a senior clinical data scientist at Philips Research North America (PRNA), specializing in developing clinical decision support systems with machine learning. I completed an MD degree at Kaohsiung Medical University and a Master of Biomedical Informatics at Harvard Medical School, and did 1-year postdoctoral research at [Laboratory for Computational Physiology](https://lcp.mit.edu/) at MIT. During my time in medical school, I cofounded [TheTinyNote](https://www.thetinynotes.com), a website of physician-authored clinical decision support resources, allowing medical professionals to follow the more than 1500+ latest guidelines of diseases and clinical inquiry. 
 
-You can reach out to me at mingyu.lu[at]philips[dot]com or mingyulu[at]mit[dot]edu
+You can reach out to me at mingyulu[at]cs[dot]washington[dot]edu
 ## Research Interest
 
 My research mainly focuses on Machine learning for Healthcare, ML4H. More specifically, I studies sequencial decision making (reinforcement learning) and counterfactual prediction (g-methods). 
