@@ -17,7 +17,8 @@ My research mainly focuses on Machine learning for Healthcare, ML4H. More specif
 
 
 #### Conference
-- **MingYu Lu**, Zach Shah, Finale Doshi Velez, Li-Wei Lehman. Sensitivity Analysis of Deep Reinforcement Learning for Sepsis Treatment. **AMIA 2020**. [[paper]](https://arxiv.org/abs/2005.04301)
+- **MingYu Lu**, Zach Shah, Finale Doshi Velez, Li-Wei Lehman. Is Deep Reinforcement Learning Ready for Practical Applications in Healthcare? A Sensitivity Analysis of Duel-DDQN for Sepsis Treatment. **AMIA 2020 Distinguished Paper**. [[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8075511/)
+
 
 #### Workshop
 - Niklas Rindtorff, **MingYu Lu**, Nisarg Patel, Huahua Zheng, and Alexander D’Amour. A Biologically Plausible Benchmark for Contextual Bandit Algorithms in Precision Oncology Using in vitro Data. Machine Learning for **Health (ML4H) Workshop at NeurIPS 2019**. [[paper]](https://arxiv.org/abs/1911.04389)
