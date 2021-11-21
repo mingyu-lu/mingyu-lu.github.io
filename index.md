@@ -25,7 +25,7 @@ My research mainly focuses on Machine learning for Healthcare, ML4H. More specif
 - Niklas Rindtorff, **MingYu Lu**, Nisarg Patel, Huahua Zheng, and Alexander D’Amour. A Biologically Plausible Benchmark for Contextual Bandit Algorithms in Precision Oncology Using in vitro Data. **Machine Learning for Health (ML4H) Workshop at NeurIPS 2019**. [[paper]](https://arxiv.org/abs/1911.04389)
 
 #### Abstract & Symposium:
-- **MingYu Lu**, Chenyu Lu, Jingyi Chen, Leo Anthony Celi. Predicting Hemodilution with Machine Learning. **Beth Israel Deaconess Medical Center Artificial Intelligence/Machine Learning Symposium 2020**
+-  Chenyu Lu, Jingyi Chen,**MingYu Lu**, Leo Anthony Celi. Predicting Hemodilution with Machine Learning. **Beth Israel Deaconess Medical Center Artificial Intelligence/Machine Learning Symposium 2020**
 - Rui Li, Zach Shahn, Jun Li, **Mingyu Lu**, Prithwish Chakraborty, Daby Sow, Mohamed Ghalwash, Li-wei H. Lehman. Learning Optimal DTRS From Temporal Icu Monitoring Data. **MIT-IBM Watson AI Lab Virtual Poster Session 2020**
 
 #### Preprint
