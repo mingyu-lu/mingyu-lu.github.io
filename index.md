@@ -22,7 +22,6 @@ My research mainly focuses on Machine learning for Healthcare, ML4H. More specif
 #### Workshop
 
 - Rui Li, Stephanie Hu, Yuria Utsumi, **MingYu Lu**, Prithwish Chakraborty, Daby Sow, Piyush Madan,Jun Li, Mohamed Ghalwash, Zachary Shahn, Li-wei H Lehman. G-Net: A Deep Learning Approach to G-computation for Counterfactual Outcome Prediction Under Dynamic Treatment Regimes. **Machine Learning for Health (ML4H) Workshop at NeurIPS 2021**.[[paper]](https://arxiv.org/abs/2003.10551)
-- 
 - Niklas Rindtorff, **MingYu Lu**, Nisarg Patel, Huahua Zheng, and Alexander D’Amour. A Biologically Plausible Benchmark for Contextual Bandit Algorithms in Precision Oncology Using in vitro Data. **Machine Learning for Health (ML4H) Workshop at NeurIPS 2019**. [[paper]](https://arxiv.org/abs/1911.04389)
 
 #### Abstract & Symposium:
