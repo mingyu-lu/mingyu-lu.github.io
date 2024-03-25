@@ -11,7 +11,7 @@ Hi! I am a 3rd year CSE phd student at University of Wahsington, advised by Su-I
 You can reach out to me at mingyulu[at]cs[dot]washington[dot]edu
 ## Research Interest
 
-My research mainly focuses on Machine learning for Healthcare, ML4H. More specifically, I study sequential decision making (reinforcement learning) and counterfactual prediction (g-methods). 
+My research mainly focuses on Machine learning for Healthcare, ML4H. More specifically, I study sequential decision-making (reinforcement learning) and counterfactual prediction (g-methods). 
 
 ## Publications 
 
@@ -20,7 +20,7 @@ My research mainly focuses on Machine learning for Healthcare, ML4H. More specif
 
 - **MingYu Lu**, Zach Shah, Finale Doshi Velez, Li-Wei Lehman. Is Deep Reinforcement Learning Ready for Practical Applications in Healthcare? A Sensitivity Analysis of Duel-DDQN for Sepsis Treatment. **AMIA 2020 Distinguished Paper**. [[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8075511/)
 
-- Ian Connick Covert, Wei Qiu, **MingYu Lu**, Na Yoon Kim, Nathan J White, Su-In Lee. Learning to maximize mutual information for dynamic feature selection **ICLR2023** [[paper]](https://proceedings.mlr.press/v202/covert23a/covert23a.pdf)
+- Ian Connick Covert, Wei Qiu, **MingYu Lu**, Na Yoon Kim, Nathan J White, Su-In Lee. Learning to maximize mutual information for dynamic feature selection **ICLR 2023** [[paper]](https://proceedings.mlr.press/v202/covert23a/covert23a.pdf)
 
 #### Workshop
 
