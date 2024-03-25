@@ -20,11 +20,11 @@ My research mainly focuses on Machine learning for Healthcare, ML4H. More specif
 
 - **MingYu Lu**, Zach Shah, Finale Doshi Velez, Li-Wei Lehman. Is Deep Reinforcement Learning Ready for Practical Applications in Healthcare? A Sensitivity Analysis of Duel-DDQN for Sepsis Treatment. **AMIA 2020 Distinguished Paper**. [[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8075511/)
 
-- Ian Connick Covert, Wei Qiu, **MingYu Lu**, Na Yoon Kim, Nathan J White, Su-In Lee. Learning to maximize mutual information for dynamic feature selection ICLR2023 [[paper]](https://proceedings.mlr.press/v202/covert23a/covert23a.pdf)
+- Ian Connick Covert, Wei Qiu, **MingYu Lu**, Na Yoon Kim, Nathan J White, Su-In Lee. Learning to maximize mutual information for dynamic feature selection **ICLR2023** [[paper]](https://proceedings.mlr.press/v202/covert23a/covert23a.pdf)
 
 #### Workshop
 
-- **MingYu Lu**, Yifang Chen, Su-In Lee. A Deep Bayesian Bandits Approach for Anticancer Drug Screening: Exploration via Functional Prior. **ICML2022 Workshop on Adaptive Experimental Design and Active Learning in the Real World** [[paper](https://realworldml.github.io/files/cr/paper62.pdf)]
+- **MingYu Lu**, Yifang Chen, Su-In Lee. A Deep Bayesian Bandits Approach for Anticancer Drug Screening: Exploration via Functional Prior. **Adaptive Experimental Design and Active Learning in the Real World Workshop at ICML2022** [[paper](https://realworldml.github.io/files/cr/paper62.pdf)]
 - Rui Li, Stephanie Hu, Yuria Utsumi, **MingYu Lu**, Prithwish Chakraborty, Daby Sow, Piyush Madan,Jun Li, Mohamed Ghalwash, Zachary Shahn, Li-wei H Lehman. G-Net: A Deep Learning Approach to G-computation for Counterfactual Outcome Prediction Under Dynamic Treatment Regimes. **Machine Learning for Health (ML4H) Workshop at NeurIPS 2021**.[[paper]](https://arxiv.org/abs/2003.10551)
 - Niklas Rindtorff, **MingYu Lu**, Nisarg Patel, Huahua Zheng, and Alexander D’Amour. A Biologically Plausible Benchmark for Contextual Bandit Algorithms in Precision Oncology Using in vitro Data. **Machine Learning for Health (ML4H) Workshop at NeurIPS 2019**. [[paper]](https://arxiv.org/abs/1911.04389)
 
