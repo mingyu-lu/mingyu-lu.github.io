@@ -14,7 +14,7 @@ You can reach out to me at mingyulu[at]cs[dot]washington[dot]edu
 
 - **Mingyu Lu**, Ian Covert, Nathan J White, Su-In Lee. CODE-XAI: Construing and Deciphering Treatment Effects via Explainable AI using Real-world Data. **medRxiv 2024** [[paper](https://www.medrxiv.org/content/medrxiv/early/2024/09/06/2024.09.04.24312866.full.pdf)] 
 
-- Chris Lin *, **Mingyu Lu** * , Su-In Lee. Explaining Diffusion Models via Removal-Based Attribution. **Navigating and Addressing  Data Problems for Foundation Models at ICLR 2024 Workshop** [[paper](https://arxiv.org/pdf/2407.03153)]
+- Chris Lin *, **Mingyu Lu** * , Su-In Lee. Efficient Shapley Values for Attributing Global Properties of Diffusion Models to Data Groups. **Navigating and Addressing  Data Problems for Foundation Models at ICLR 2024 Workshop** [[paper](https://arxiv.org/pdf/2407.03153)]
 
 - Ian Connick Covert, Wei Qiu, **MingYu Lu**, Na Yoon Kim, Nathan J White, Su-In Lee. Learning to maximize mutual information for dynamic feature selection **ICLR 2023** [[paper]](https://proceedings.mlr.press/v202/covert23a/covert23a.pdf)
   
