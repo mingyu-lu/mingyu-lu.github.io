@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="sherlock.jpg">
 
-Hi! I am a 4th year CSE Ph.D. student at the University of Washington, advised by Su-In Lee at [Artificial Intelligence for Biological and Medical Sciences (AIMS)](https://aims.cs.washington.edu/). My current research focuses on explainable AI, particularly feature attribution and data attribution, across various models, and their applications in the biomedical domain. I am also interested in causal inference, in particular treatment effect estimation, and offline reinforcement learning. 
+Hi! I am a 4th year CSE Ph.D. student at the University of Washington, advised by Su-In Lee at [Artificial Intelligence for Biological and Medical Sciences (AIMS)](https://aims.cs.washington.edu/). My current research focuses on explainable AI, particularly feature attribution and data attribution, across various models, and their applications in the biomedical domain. I am also interested in causal inference (treatment effect estimation) and offline reinforcement learning. 
 
 You can reach out to me at mingyulu[at]cs[dot]washington[dot]edu
 
