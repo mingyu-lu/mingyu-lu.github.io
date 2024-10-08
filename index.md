@@ -6,12 +6,12 @@ layout: default
 
 <img class="profile-picture" src="sherlock.jpg">
 
-Hi! I am a 3rd year CSE Ph.D. student at the University of Washington, advised by Su-In Lee at [Artificial Intelligence for Biological and Medical Sciences (AIMS)](https://aims.cs.washington.edu/). Before UW, I was a senior clinical data scientist at Philips Research North America (PRNA), specializing in developing clinical decision support systems with machine learning. I completed an MD degree at Kaohsiung Medical University and a Master of Biomedical Informatics at Harvard Medical School and did 1-year postdoctoral research at [Laboratory for Computational Physiology](https://lcp.mit.edu/) at MIT. During my time in medical school, I cofounded [TheTinyNote](https://www.thetinynotes.com), a website of physician-authored clinical decision support resources, allowing medical professionals to follow the more than 1500+ latest guidelines of diseases and clinical inquiry. 
+Hi! I am a 4th year CSE Ph.D. student at the University of Washington, advised by Su-In Lee at [Artificial Intelligence for Biological and Medical Sciences (AIMS)](https://aims.cs.washington.edu/). My research mainly focuses on interpretable/transparent machine learning and generative models and their applications in the biomedical domain. I am broadly interested in feature attribution, data attribution, sequential decision-making (reinforcement learning), and counterfactual prediction (g-methods). 
 
 You can reach out to me at mingyulu[at]cs[dot]washington[dot]edu
 ## Research Interest
 
-My research mainly focuses on Transparent Machine Learning and Machine Learning for Healthcare (ML4H). More specifically, I study sequential decision-making (reinforcement learning) and counterfactual prediction (g-methods). 
+
 
 ## Publications 
 
