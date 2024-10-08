@@ -10,7 +10,7 @@ Hi! I am a 4th year CSE Ph.D. student at the University of Washington, advised b
 
 You can reach out to me at mingyulu[at]cs[dot]washington[dot]edu
 
-## Publications 
+## Selected Publications 
 
 
 #### Conference & Workshop
