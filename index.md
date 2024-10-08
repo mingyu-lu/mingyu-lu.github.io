@@ -6,12 +6,9 @@ layout: default
 
 <img class="profile-picture" src="sherlock.jpg">
 
-Hi! I am a 4th year CSE Ph.D. student at the University of Washington, advised by Su-In Lee at [Artificial Intelligence for Biological and Medical Sciences (AIMS)](https://aims.cs.washington.edu/). My research mainly focuses on interpretable/transparent machine learning and generative models and their applications in the biomedical domain. I am broadly interested in feature attribution, data attribution, sequential decision-making (reinforcement learning), and counterfactual prediction (g-methods). 
+Hi! I am a 4th year CSE Ph.D. student at the University of Washington, advised by Su-In Lee at [Artificial Intelligence for Biological and Medical Sciences (AIMS)](https://aims.cs.washington.edu/). My current research mainly focuses on interpretable machine learning (feature attribution, data attribution), generative models, sequential decision-making (reinforcement learning), and counterfactual prediction (g-methods), and their applications in the biomedical domain. 
 
 You can reach out to me at mingyulu[at]cs[dot]washington[dot]edu
-## Research Interest
-
-
 
 ## Publications 
 
