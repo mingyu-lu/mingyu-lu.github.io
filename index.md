@@ -23,7 +23,7 @@ You can reach out to me at mingyulu[at]cs[dot]washington[dot]edu
 - Niklas Rindtorff, **MingYu Lu**, Nisarg Patel, Huahua Zheng, and Alexander D’Amour. A Biologically Plausible Benchmark for Contextual Bandit Algorithms in Precision Oncology Using In vitro Data. **Machine Learning for Health (ML4H) Workshop at NeurIPS 2019**. [[paper]](https://arxiv.org/abs/1911.04389)
 
 #### Preprint
-- **Mingyu Lu**, Ian Covert, Nathan White, Su-In Lee. CODE-XAI: Construing and Deciphering Treatment Effects via Explainable AI using Real-world Data. [[paper](https://www.medrxiv.org/content/medrxiv/early/2024/09/06/2024.09.04.24312866.full.pdf)] **medRxiv 2024**
+- **Mingyu Lu**, Ian Covert, Nathan J White, Su-In Lee. CODE-XAI: Construing and Deciphering Treatment Effects via Explainable AI using Real-world Data. [[paper](https://www.medrxiv.org/content/medrxiv/early/2024/09/06/2024.09.04.24312866.full.pdf)] **medRxiv 2024**
 
 ## Leadership/Awards
 
