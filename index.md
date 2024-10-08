@@ -33,7 +33,7 @@ My research mainly focuses on Transparent Machine Learning and Machine Learning 
 - Rui Li, Zach Shahn, Jun Li, **Mingyu Lu**, Prithwish Chakraborty, Daby Sow, Mohamed Ghalwash, Li-wei H. Lehman. Learning Optimal DTRS From Temporal Icu Monitoring Data. **MIT-IBM Watson AI Lab Virtual Poster Session 2020**
 
 #### Preprint
-- **Mingyu Lu**, Ian Covert, Nathan White, Su-In Lee. CODE-XAI: Construing and Deciphering Treatment Effects via Explainable AI using Real-world Data. [[paper](https://www.medrxiv.org/content/medrxiv/early/2024/09/06/2024.09.04.24312866.full.pdf)]
+- **Mingyu Lu**, Ian Covert, Nathan White, Su-In Lee. CODE-XAI: Construing and Deciphering Treatment Effects via Explainable AI using Real-world Data. [[paper](https://www.medrxiv.org/content/medrxiv/early/2024/09/06/2024.09.04.24312866.full.pdf)] 2024
 
 ## Leadership/Awards
 
