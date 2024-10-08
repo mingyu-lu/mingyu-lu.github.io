@@ -12,7 +12,7 @@ You can reach out to me at mingyulu[at]cs[dot]washington[dot]edu
 
 ## Selected Publications 
 
-- **Mingyu Lu**, Ian Covert, Nathan J White, Su-In Lee. CODE-XAI: Construing and Deciphering Treatment Effects via Explainable AI using Real-world Data. [[paper](https://www.medrxiv.org/content/medrxiv/early/2024/09/06/2024.09.04.24312866.full.pdf)] **medRxiv 2024**
+- **Mingyu Lu**, Ian Covert, Nathan J White, Su-In Lee. CODE-XAI: Construing and Deciphering Treatment Effects via Explainable AI using Real-world Data. **medRxiv 2024** [[paper](https://www.medrxiv.org/content/medrxiv/early/2024/09/06/2024.09.04.24312866.full.pdf)] 
 
 - Chris Lin *, **Mingyu Lu** * , Su-In Lee. Explaining Diffusion Models via Removal-Based Attribution. **Navigating and Addressing  Data Problems for Foundation Models at ICLR 2024 Workshop** [[paper](https://arxiv.org/pdf/2407.03153)]
 
