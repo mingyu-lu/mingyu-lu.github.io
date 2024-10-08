@@ -23,8 +23,6 @@ You can reach out to me at mingyulu[at]cs[dot]washington[dot]edu
 - Rui Li, Stephanie Hu, Yuria Utsumi, **MingYu Lu**, Prithwish Chakraborty, Daby Sow, Piyush Madan, Jun Li, Mohamed Ghalwash, Zachary Shahn, Li-wei H Lehman. G-Net: A Deep Learning Approach to G-computation for Counterfactual Outcome Prediction Under Dynamic Treatment Regimes. **Machine Learning for Health (ML4H) Workshop at NeurIPS 2021**.[[paper]](https://arxiv.org/abs/2003.10551)
   
 - **MingYu Lu**, Zach Shah, Finale Doshi Velez, Li-Wei Lehman. Is Deep Reinforcement Learning Ready for Practical Applications in Healthcare? A Sensitivity Analysis of Duel-DDQN for Sepsis Treatment. **AMIA 2020 Distinguished Paper**. [[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8075511/)
-  
-- Niklas Rindtorff, **MingYu Lu**, Nisarg Patel, Huahua Zheng, and Alexander D’Amour. A Biologically Plausible Benchmark for Contextual Bandit Algorithms in Precision Oncology Using In vitro Data. **Machine Learning for Health (ML4H) Workshop at NeurIPS 2019**. [[paper]](https://arxiv.org/abs/1911.04389)
 
 
 ## Leadership/Awards
