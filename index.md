@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="sherlock.jpg">
 
-Hi! I am a 4th year CSE Ph.D. student at the University of Washington, advised by Su-In Lee at [Artificial Intelligence for Biological and Medical Sciences (AIMS)](https://aims.cs.washington.edu/). My research focuses on the intersection of explainable AI, particularly feature and data attribution, generative models, and treatment effect estimation. I apply these methods within the biomedical domain, aiming to enhance understanding and decision-making in complex real-world settings.
+Hi! I am a 4th year CSE Ph.D. student at the University of Washington, advised by Su-In Lee at [Artificial Intelligence for Biological and Medical Sciences (AIMS)](https://aims.cs.washington.edu/). My research focuses on the intersection of explainable AI, particularly feature and data attribution, generative models, and treatment effect estimation. I apply these methods to improve model transparency, fairness, and safety, aiming to enhance understanding and decision-making in complex real-world settings, particularly in the biomedical domain.
 
 You can reach out to me at mingyulu[at]cs[dot]washington[dot]edu
 
