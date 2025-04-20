@@ -11,7 +11,7 @@ Hi! I am a 4th year CSE Ph.D. student at the University of Washington, advised b
 You can reach out to me at mingyulu[at]cs[dot]washington[dot]edu
 
 ## Selected Publications 
--  Chris Lin *, **Mingyu Lu** * , Su-In Lee. An Efficient Framework for Crediting Data Contributors of Diffusion Models **ICLR 2025** [[paper](https://arxiv.org/pdf/2407.03153)]
+-  Chris Lin *, **Mingyu Lu** * , Su-In Lee. An Efficient Framework for Crediting Data Contributors of Diffusion Models **ICLR 2025** [[paper](https://arxiv.org/pdf/2407.03153)] [[project page](https://q8888620002.github.io/contributor-attribution/)][[code](https://github.com/q8888620002/Group-Attribution-for-Diffusion-Models)]
 
 - **Mingyu Lu**, Ian Covert, Nathan J White, Su-In Lee. CODE-XAI: Construing and Deciphering Treatment Effects via Explainable AI using Real-world Data. **medRxiv 2024** [[paper](https://www.medrxiv.org/content/medrxiv/early/2024/09/06/2024.09.04.24312866.full.pdf)] 
 
