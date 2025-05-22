@@ -20,11 +20,9 @@ You can reach out to me at mingyulu[at]cs[dot]washington[dot]edu
   
 - Ian Connick Covert, Wei Qiu, **MingYu Lu**, Na Yoon Kim, Nathan J White, Su-In Lee. Learning to maximize mutual information for dynamic feature selection **ICML 2023** [[paper]](https://proceedings.mlr.press/v202/covert23a/covert23a.pdf)
 
-### Applications in Biology
+### Treatment Effect Estimation in Healthcare and Biology
 
 - **Mingyu Lu**, Ethan Weinberger, Chanwoo Kim, Su-In Lee CellCLIP – Learning Perturbation Effects in Cell Painting via Text-Guided Contrastive Learning. Oral presentation @ **Learning Meaningful Representation for Life (LMRL) Workshop at ICLR 2025** [[paper](https://openreview.net/pdf?id=xyDN69Dw4y)]
-
-### Decision Making & Causal Inference in Healthcare
 
 - **Mingyu Lu**, Ian Covert, Nathan J White, Su-In Lee. CODE-XAI: Construing and Deciphering Treatment Effects via Explainable AI using Real-world Data. **medRxiv 2024** [[paper](https://www.medrxiv.org/content/medrxiv/early/2024/09/06/2024.09.04.24312866.full.pdf)]
   
