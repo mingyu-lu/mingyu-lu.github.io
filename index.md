@@ -15,8 +15,6 @@ You can reach out to me at mingyulu[at]cs[dot]washington[dot]edu
 ### Explainable AI
 
 -  Chris Lin *, **Mingyu Lu** * , Su-In Lee. An Efficient Framework for Crediting Data Contributors of Diffusion Models **ICLR 2025** [[paper](https://arxiv.org/pdf/2407.03153)] [[project page](https://q8888620002.github.io/contributor-attribution/)][[code](https://github.com/q8888620002/Group-Attribution-for-Diffusion-Models)]
-
-- Chris Lin *, **Mingyu Lu** * , Su-In Lee. Efficient Shapley Values for Attributing Global Properties of Diffusion Models to Data Groups. **Navigating and Addressing  Data Problems for Foundation Models at ICLR 2024 Workshop** [[paper](https://arxiv.org/pdf/2407.03153)]
   
 - Ian Connick Covert, Wei Qiu, **MingYu Lu**, Na Yoon Kim, Nathan J White, Su-In Lee. Learning to maximize mutual information for dynamic feature selection **ICML 2023** [[paper]](https://proceedings.mlr.press/v202/covert23a/covert23a.pdf)
 
