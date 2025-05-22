@@ -12,7 +12,7 @@ You can reach out to me at mingyulu[at]cs[dot]washington[dot]edu
 
 ## Selected Publications 
 
-### Explainable ML
+### Explainable AI
 
 -  Chris Lin *, **Mingyu Lu** * , Su-In Lee. An Efficient Framework for Crediting Data Contributors of Diffusion Models **ICLR 2025** [[paper](https://arxiv.org/pdf/2407.03153)] [[project page](https://q8888620002.github.io/contributor-attribution/)][[code](https://github.com/q8888620002/Group-Attribution-for-Diffusion-Models)]
 
@@ -20,9 +20,11 @@ You can reach out to me at mingyulu[at]cs[dot]washington[dot]edu
   
 - Ian Connick Covert, Wei Qiu, **MingYu Lu**, Na Yoon Kim, Nathan J White, Su-In Lee. Learning to maximize mutual information for dynamic feature selection **ICML 2023** [[paper]](https://proceedings.mlr.press/v202/covert23a/covert23a.pdf)
 
-### ML Applications in Healthcare & Biology
+### Applications in Biology
 
 - **Mingyu Lu**, Ethan Weinberger, Chanwoo Kim, Su-In Lee CellCLIP – Learning Perturbation Effects in Cell Painting via Text-Guided Contrastive Learning. Oral presentation @ **Learning Meaningful Representation for Life (LMRL) Workshop at ICLR 2025** [[paper](https://openreview.net/pdf?id=xyDN69Dw4y)]
+
+### Decision Making & Causal Inference in Healthcare
 
 - **Mingyu Lu**, Ian Covert, Nathan J White, Su-In Lee. CODE-XAI: Construing and Deciphering Treatment Effects via Explainable AI using Real-world Data. **medRxiv 2024** [[paper](https://www.medrxiv.org/content/medrxiv/early/2024/09/06/2024.09.04.24312866.full.pdf)]
   
