@@ -31,7 +31,7 @@ I will be working with [Suraj Srinivas](https://suraj-srinivas.github.io/) and [
   
 -	Yubin Kim, Hyewon Jeong, Chanwoo Park, **MingYu Lu**, Eugene W Park, Haipeng Zhang, Xin Liu, Hyeonhoon Lee, Daniel McDuff, Cynthia Breazeal, Samir Tulebaev, Hae Won Park ``Tiered Agentic Oversight: A Hierarchical Multi-Agent System for AI Safety in Healthcare’’ **Multi-Agent Systems (MAS) in the Era of Foundation Models at ICML 2025** [[paper](https://arxiv.org/pdf/2506.12482)]
 
--	Yubin Kim, Hyewon Jeong, Shan Chen, Shuyue Stella Li,**Mingyu Lu**, Kumail Alhamoud, Jimin Mun, Cristina Grau,Minseok Jung, Rodrigo Gameiro, Lizhou Fan, Eugene Park,Tristan Lin, Joonsik Yoon, Wonjin Yoon, Maarten Sap,Yulia Tsvetkov, Paul Liang, Xuhai Xu, Xin Liu, Daniel McDuff,Hyeonhoon Lee, Hae Won Park, Samir Tulebaev, Cynthia Breazea “Medical Hallucination in Foundation Models and Their Impact on Healthcare” **MedRxiv 2025** [[paper](https://arxiv.org/pdf/2503.05777)]
+-	Yubin Kim, Hyewon Jeong, Shan Chen, Shuyue Stella Li, **Mingyu Lu**, Kumail Alhamoud, Jimin Mun, Cristina Grau,Minseok Jung, Rodrigo Gameiro, Lizhou Fan, Eugene Park,Tristan Lin, Joonsik Yoon, Wonjin Yoon, Maarten Sap,Yulia Tsvetkov, Paul Liang, Xuhai Xu, Xin Liu, Daniel McDuff,Hyeonhoon Lee, Hae Won Park, Samir Tulebaev, Cynthia Breazea “Medical Hallucination in Foundation Models and Their Impact on Healthcare” **MedRxiv 2025** [[paper](https://arxiv.org/pdf/2503.05777)]
 
 ### Treatment Effect Estimation in Healthcare and Biology
 
