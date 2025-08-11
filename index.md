@@ -25,7 +25,7 @@ You can reach out to me at mingyulu[at]cs[dot]washington[dot]edu
   
 -	Yubin Kim, Zhiyuan Hu, Hyewon Jeong, Eugene W Park, Shuyue Stella Li, Chanwoo Park, Shiyun Xiong, **MingYu Lu**, Hyeonhoon Lee, Xin Liu, Daniel McDuff, Cynthia Breazeal, Samir Tulebaev, Hae Won Park``BehaviorSFT: Behavioral Token Conditioning for Clinical Agents Across the Proactivity Spectrum’’ arXiv 2025 [[paper](https://arxiv.org/pdf/2505.21757)]
   
--	Yubin Kim, Hyewon Jeong, Chanwoo Park, **MingYu Lu**, Eugene W Park, Haipeng Zhang, Xin Liu, Hyeonhoon Lee, Daniel McDuff, Cynthia Breazeal, Samir Tulebaev, Hae Won Park ``Tiered Agentic Oversight: A Hierarchical Multi-Agent System for AI Safety in Healthcare’’ Multi-Agent Systems (MAS) in the Era of Foundation Models at ICML 2025 [[paper](https://arxiv.org/pdf/2506.12482)]
+-	Yubin Kim, Hyewon Jeong, Chanwoo Park, **MingYu Lu**, Eugene W Park, Haipeng Zhang, Xin Liu, Hyeonhoon Lee, Daniel McDuff, Cynthia Breazeal, Samir Tulebaev, Hae Won Park ``Tiered Agentic Oversight: A Hierarchical Multi-Agent System for AI Safety in Healthcare’’ **Multi-Agent Systems (MAS) in the Era of Foundation Models at ICML 2025** [[paper](https://arxiv.org/pdf/2506.12482)]
 
 ### Treatment Effect Estimation in Healthcare and Biology
 
