@@ -12,11 +12,20 @@ You can reach out to me at mingyulu[at]cs[dot]washington[dot]edu
 
 ## Selected Publications 
 
+
 ### Explainable AI
 
 -  Chris Lin *, **Mingyu Lu** * , Su-In Lee. An Efficient Framework for Crediting Data Contributors of Diffusion Models **ICLR 2025** [[paper](https://arxiv.org/pdf/2407.03153)] [[project page](https://q8888620002.github.io/contributor-attribution/)][[code](https://github.com/q8888620002/Group-Attribution-for-Diffusion-Models)]
   
 - Ian Connick Covert, Wei Qiu, **MingYu Lu**, Na Yoon Kim, Nathan J White, Su-In Lee. Learning to maximize mutual information for dynamic feature selection **ICML 2023** [[paper]](https://proceedings.mlr.press/v202/covert23a/covert23a.pdf)
+
+### LLM & Agent for Healthcare
+
+- Mahtab Bigverdi, Wisdom Oluchi Ikezogwo, Kevin Minghan Zhang, Hyewon Jeong, **MingYu Lu**, Sungjae Cho, Linda Shapiro, Ranjay Krishna ``MedBLINK:Probing Visual Perception and Trustworthiness in Multimodal Language Models for Medicine’’ **Computer Vision for Automated Medical Diagnosis (CVAMD) at ICCV 2025 (Oral)**
+  
+-	Yubin Kim, Zhiyuan Hu, Hyewon Jeong, Eugene W Park, Shuyue Stella Li, Chanwoo Park, Shiyun Xiong, **MingYu Lu**, Hyeonhoon Lee, Xin Liu, Daniel McDuff, Cynthia Breazeal, Samir Tulebaev, Hae Won Park``BehaviorSFT: Behavioral Token Conditioning for Clinical Agents Across the Proactivity Spectrum’’ arXiv 2025 [[paper](https://arxiv.org/pdf/2505.21757)]
+  
+-	Yubin Kim, Hyewon Jeong, Chanwoo Park, **MingYu Lu**, Eugene W Park, Haipeng Zhang, Xin Liu, Hyeonhoon Lee, Daniel McDuff, Cynthia Breazeal, Samir Tulebaev, Hae Won Park ``Tiered Agentic Oversight: A Hierarchical Multi-Agent System for AI Safety in Healthcare’’ Multi-Agent Systems (MAS) in the Era of Foundation Models at ICML 2025 [[paper](https://arxiv.org/pdf/2506.12482)]
 
 ### Treatment Effect Estimation in Healthcare and Biology
 
