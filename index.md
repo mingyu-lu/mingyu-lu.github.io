@@ -21,7 +21,7 @@ I will be working with [Suraj Srinivas](https://suraj-srinivas.github.io/) and [
 
 -  Chris Lin *, **Mingyu Lu** * , Su-In Lee. An Efficient Framework for Crediting Data Contributors of Diffusion Models **ICLR 2025** [[paper](https://arxiv.org/pdf/2407.03153)] [[project page](https://q8888620002.github.io/contributor-attribution/)][[code](https://github.com/q8888620002/Group-Attribution-for-Diffusion-Models)]
   
-- Ian Connick Covert, Wei Qiu, **MingYu Lu**, Na Yoon Kim, Nathan J White, Su-In Lee. Learning to maximize mutual information for dynamic feature selection **ICML 2023** [[paper]](https://proceedings.mlr.press/v202/covert23a/covert23a.pdf)
+- Ian Connick Covert, Wei Qiu, **MingYu Lu**, Na Yoon Kim, Nathan J White, Su-In Lee. Learning to maximize mutual information for dynamic feature selection **ICML 2023** [[paper]](https://proceedings.mlr.press/v202/covert23a/covert23a.pdf) [[code]](https://github.com/q8888620002/dynamic-selection)
 
 ### LLM & Agent for Healthcare
 
@@ -35,7 +35,7 @@ I will be working with [Suraj Srinivas](https://suraj-srinivas.github.io/) and [
 
 ### Treatment Effect Estimation in Healthcare and Biology
 
-- **Mingyu Lu**, Ethan Weinberger, Chanwoo Kim, Su-In Lee CellCLIP – Learning Perturbation Effects in Cell Painting via Text-Guided Contrastive Learning. **Learning Meaningful Representation for Life (LMRL) Workshop at ICLR 2025 (Oral)** [[paper](https://openreview.net/pdf?id=xyDN69Dw4y)]
+- **Mingyu Lu**, Ethan Weinberger, Chanwoo Kim, Su-In Lee CellCLIP – Learning Perturbation Effects in Cell Painting via Text-Guided Contrastive Learning. **Learning Meaningful Representation for Life (LMRL) Workshop at ICLR 2025 (Oral)** [[paper](https://openreview.net/pdf?id=xyDN69Dw4y)] [[code](https://github.com/suinleelab/CellCLIP)]
 
 - **Mingyu Lu**, Ian Covert, Nathan J White, Su-In Lee. CODE-XAI: Construing and Deciphering Treatment Effects via Explainable AI using Real-world Data. **medRxiv 2024** [[paper](https://www.medrxiv.org/content/medrxiv/early/2024/09/06/2024.09.04.24312866.full.pdf)]
   
