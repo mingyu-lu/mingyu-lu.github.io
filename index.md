@@ -15,7 +15,7 @@ You can reach out to me at mingyulu[at]cs[dot]washington[dot]edu
 I will be working with [Suraj Srinivas](https://suraj-srinivas.github.io/) and [Jorge Piazentin Ono](https://jorgehpo.github.io/) at Bosch Research during summer 2025!
 
 
-## Selected Publications 
+## Publications and preprints
 
 ### Explainable AI
 
