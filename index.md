@@ -25,13 +25,13 @@ I will be working with [Suraj Srinivas](https://suraj-srinivas.github.io/) and [
 
 ### LLM & Agent for Healthcare
 
-- Mahtab Bigverdi, Wisdom Oluchi Ikezogwo, Kevin Minghan Zhang, Hyewon Jeong, **MingYu Lu**, Sungjae Cho, Linda Shapiro, Ranjay Krishna ``MedBLINK:Probing Visual Perception and Trustworthiness in Multimodal Language Models for Medicine’’ **Computer Vision for Automated Medical Diagnosis (CVAMD) at ICCV 2025 (Oral)**
+- Mahtab Bigverdi, Wisdom Oluchi Ikezogwo, Kevin Minghan Zhang, Hyewon Jeong, **MingYu Lu**, Sungjae Cho, Linda Shapiro, Ranjay Krishna ``MedBLINK:Probing Visual Perception and Trustworthiness in Multimodal Language Models for Medicine’’ **Computer Vision for Automated Medical Diagnosis (CVAMD) at ICCV 2025 (Oral)** [[paper](https://www.arxiv.org/pdf/2508.02951)][[Datasets & project page](https://medblink-benchmark.github.io/)]
   
--	Yubin Kim, Zhiyuan Hu, Hyewon Jeong, Eugene W Park, Shuyue Stella Li, Chanwoo Park, Shiyun Xiong, **MingYu Lu**, Hyeonhoon Lee, Xin Liu, Daniel McDuff, Cynthia Breazeal, Samir Tulebaev, Hae Won Park``BehaviorSFT: Behavioral Token Conditioning for Clinical Agents Across the Proactivity Spectrum’’ **arXiv 2025** [[paper](https://arxiv.org/pdf/2505.21757)]
+-	Yubin Kim, Zhiyuan Hu, Hyewon Jeong, Eugene W Park, Shuyue Stella Li, Chanwoo Park, Shiyun Xiong, **MingYu Lu**, Hyeonhoon Lee, Xin Liu, Daniel McDuff, Cynthia Breazeal, Samir Tulebaev, Hae Won Park``BehaviorSFT: Behavioral Token Conditioning for Clinical Agents Across the Proactivity Spectrum’’ **EMNLP 2025** [[paper](https://arxiv.org/pdf/2505.21757)]
   
 -	Yubin Kim, Hyewon Jeong, Chanwoo Park, **MingYu Lu**, Eugene W Park, Haipeng Zhang, Xin Liu, Hyeonhoon Lee, Daniel McDuff, Cynthia Breazeal, Samir Tulebaev, Hae Won Park ``Tiered Agentic Oversight: A Hierarchical Multi-Agent System for AI Safety in Healthcare’’ **Multi-Agent Systems (MAS) in the Era of Foundation Models at ICML 2025** [[paper](https://arxiv.org/pdf/2506.12482)]
 
--	Yubin Kim, Hyewon Jeong, Shan Chen, Shuyue Stella Li, **Mingyu Lu**, Kumail Alhamoud, Jimin Mun, Cristina Grau,Minseok Jung, Rodrigo Gameiro, Lizhou Fan, Eugene Park,Tristan Lin, Joonsik Yoon, Wonjin Yoon, Maarten Sap,Yulia Tsvetkov, Paul Liang, Xuhai Xu, Xin Liu, Daniel McDuff,Hyeonhoon Lee, Hae Won Park, Samir Tulebaev, Cynthia Breazea “Medical Hallucination in Foundation Models and Their Impact on Healthcare” **MedRxiv 2025** [[paper](https://arxiv.org/pdf/2503.05777)]
+-	Yubin Kim, Hyewon Jeong, Shan Chen, Shuyue Stella Li, **Mingyu Lu**, Kumail Alhamoud, Jimin Mun, Cristina Grau, Minseok Jung, Rodrigo Gameiro, Lizhou Fan, Eugene Park,Tristan Lin, Joonsik Yoon, Wonjin Yoon, Maarten Sap, Yulia Tsvetkov, Paul Liang, Xuhai Xu, Xin Liu, Daniel McDuff,Hyeonhoon Lee, Hae Won Park, Samir Tulebaev, Cynthia Breazea “Medical Hallucination in Foundation Models and Their Impact on Healthcare” **MedRxiv 2025** [[paper](https://arxiv.org/pdf/2503.05777)]
 
 ### Treatment Effect Estimation in Healthcare and Biology
 
