@@ -8,11 +8,11 @@ layout: default
 
 Hi! I am a 4th-year CSE Ph.D. student at the University of Washington, advised by Su-In Lee at [Artificial Intelligence for Biological and Medical Sciences (AIMS)](https://aims.cs.washington.edu/). My research focuses on the intersection of explainable AI, particularly feature and data attribution, generative models, and treatment effect estimation. I apply these methods to improve model transparency, fairness, and safety, aiming to enhance understanding and decision-making in complex real-world settings, particularly in the biomedical domain. 
 
-I’ve been lucky to work with a lot of amazing people, and I’m always excited for new opportunities to collaborate. You can reach out to me at mingyulu[at]cs[dot]washington[dot]edu
+I’ve been fortunate to work with many amazing people, and I’m always excited about new opportunities to collaborate. You can reach out to me at mingyulu[at]cs[dot]washington[dot]edu
 
 ### Recent Update
 
-I will be working with [Suraj Srinivas](https://suraj-srinivas.github.io/) and [Jorge Piazentin Ono](https://jorgehpo.github.io/) at Bosch Research during summer 2025!
+I will be working with [Suraj Srinivas](https://suraj-srinivas.github.io/) and [Jorge Piazentin Ono](https://jorgehpo.github.io/) at Bosch Research during the summer of 2025!
 
 
 ## Publications and preprints
