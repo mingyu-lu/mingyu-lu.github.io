@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## About Me
+## About me
 
 <img class="profile-picture" src="Mingyu.png">
 
@@ -10,7 +10,7 @@ Hi! I am a 4th-year CSE Ph.D. student at the University of Washington, advised b
 
 I’ve been fortunate to work with many amazing people, and I’m always excited about new opportunities to collaborate. You can reach out to me at mingyulu[at]cs[dot]washington[dot]edu
 
-## Recent Update
+## Recent update
 
 I will be working with [Suraj Srinivas](https://suraj-srinivas.github.io/) and [Jorge Piazentin Ono](https://jorgehpo.github.io/) at Bosch Research during the summer of 2025!
 
