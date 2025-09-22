@@ -20,22 +20,22 @@ I will be working with [Suraj Srinivas](https://suraj-srinivas.github.io/) and [
 - **CellCLIP – Learning Perturbation Effects in Cell Painting via Text-Guided Contrastive Learning**  
 **Mingyu Lu**, Ethan Weinberger, Chanwoo Kim, Su-In Lee  
 <em>Neural Information Processing Systems (NeurIPS), 2025</em>  
-[[paper](https://openreview.net/pdf?id=xyDN69Dw4y)][[project page](https://q8888620002.github.io/CellCLIP-website/)][[code](https://github.com/suinleelab/CellCLIP)]
+[[paper](https://openreview.net/pdf?id=xyDN69Dw4y)] [[code](https://github.com/suinleelab/CellCLIP)] [[project page](https://q8888620002.github.io/CellCLIP-website/)]
 
 -	**BehaviorSFT: Behavioral Token Conditioning for Clinical Agents Across the Proactivity Spectrum**  
 Yubin Kim, Zhiyuan Hu, Hyewon Jeong, Eugene W Park, Shuyue Stella Li, Chanwoo Park, Shiyun Xiong, **MingYu Lu**, Hyeonhoon Lee, Xin Liu, Daniel McDuff, Cynthia Breazeal, Samir Tulebaev, Hae Won Park  
 <em>Empirical Methods in Natural Language Processing (EMNLP) findings, 2025</em>  
-[[paper](https://arxiv.org/pdf/2505.21757)][[project page](https://behavior-adaptation.github.io/)]  
+[[paper](https://arxiv.org/pdf/2505.21757)] [[code](https://drive.google.com/file/d/1ARra3jLP1nGTvkjitgW3m64YVzvxGr07/view)] [[project page](https://behavior-adaptation.github.io/)]  
 
 - **An Efficient Framework for Crediting Data Contributors of Diffusion Models**  
 Chris Lin *, **Mingyu Lu** * , Su-In Lee  
 <em>International Conference on Learning Representations (ICLR), 2025</em>  
-[[paper](https://arxiv.org/pdf/2407.03153)][[project page](https://q8888620002.github.io/contributor-attribution/)][[code](https://github.com/q8888620002/Group-Attribution-for-Diffusion-Models)]
+[[paper](https://arxiv.org/pdf/2407.03153)] [[code](https://github.com/q8888620002/Group-Attribution-for-Diffusion-Models)] [[project page](https://q8888620002.github.io/contributor-attribution/)]
   
 - **Learning to Maximize Mutual Information for Dynamic Feature Selection**  
 Ian Connick Covert, Wei Qiu, **MingYu Lu**, Na Yoon Kim, Nathan J White, Su-In Lee  
 <em>International Conference on Machine Learning (ICML), 2023</em>  
-[[paper](https://proceedings.mlr.press/v202/covert23a/covert23a.pdf)][[code](https://github.com/q8888620002/dynamic-selection)]
+[[paper](https://proceedings.mlr.press/v202/covert23a/covert23a.pdf)] [[code](https://github.com/q8888620002/dynamic-selection)]
 
 - **G-Net: A Deep Learning Approach to G-computation for Counterfactual Outcome Prediction Under Dynamic Treatment Regimes.**  
 Rui Li, Stephanie Hu, Yuria Utsumi, **MingYu Lu**, Prithwish Chakraborty, Daby Sow, Piyush Madan, Jun Li, Mohamed Ghalwash, Zachary Shahn, Li-wei H Lehman  
@@ -54,7 +54,7 @@ Rui Li, Stephanie Hu, Yuria Utsumi, **MingYu Lu**, Prithwish Chakraborty, Daby S
 Mahtab Bigverdi, Wisdom Oluchi Ikezogwo, Kevin Minghan Zhang, Hyewon Jeong, **MingYu Lu**, Sungjae Cho, Linda Shapiro, Ranjay Krishna  
 <em>Computer Vision for Automated Medical Diagnosis (CVAMD) at ICCV, 2025</em>  
 **<em>Oral presentation</em>**  
-[[paper](https://www.arxiv.org/pdf/2508.02951)][[datasets & project page](https://medblink-benchmark.github.io/)]
+[[paper](https://www.arxiv.org/pdf/2508.02951)] [[datasets & project page](https://medblink-benchmark.github.io/)]
 
 - **Tiered Agentic Oversight: A Hierarchical Multi-Agent System for AI Safety in Healthcare**  
 Yubin Kim, Hyewon Jeong, Chanwoo Park, **MingYu Lu**, Eugene W Park, Haipeng Zhang, Xin Liu, Hyeonhoon Lee, Daniel McDuff, Cynthia Breazeal, Samir Tulebaev, Hae Won Park  
