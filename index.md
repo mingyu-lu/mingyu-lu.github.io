@@ -42,13 +42,13 @@ Ian Connick Covert, Wei Qiu, **MingYu Lu**, Na Yoon Kim, Nathan J White, Su-In L
 - **G-Net: A Deep Learning Approach to G-computation for Counterfactual Outcome Prediction Under Dynamic Treatment Regimes.**  
 Rui Li, Stephanie Hu, Yuria Utsumi, **MingYu Lu**, Prithwish Chakraborty, Daby Sow, Piyush Madan, Jun Li, Mohamed Ghalwash, Zachary Shahn, Li-wei H Lehman  
 <em>Machine Learning for Health (ML4H), 2021</em>  
-[[paper]](https://arxiv.org/abs/2003.10551)
+[[paper](https://arxiv.org/abs/2003.10551)]
   
 - **Is Deep Reinforcement Learning Ready for Practical Applications in Healthcare? A Sensitivity Analysis of Duel-DDQN for Sepsis Treatment.**  
 **MingYu Lu**, Zach Shah, Finale Doshi Velez, Li-Wei Lehman.  
 <em>American Medical Informatics Association (AMIA), 2020 </em>  
 **<em>Distinguished Paper</em>**  
-[[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8075511/)
+[[paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8075511/)]
 
 ### Workshop and prepints
 
