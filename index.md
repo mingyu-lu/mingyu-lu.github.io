@@ -54,7 +54,7 @@ Rui Li, Stephanie Hu, Yuria Utsumi, **MingYu Lu**, Prithwish Chakraborty, Daby S
 Mahtab Bigverdi, Wisdom Oluchi Ikezogwo, Kevin Minghan Zhang, Hyewon Jeong, **MingYu Lu**, Sungjae Cho, Linda Shapiro, Ranjay Krishna  
 <em>Computer Vision for Automated Medical Diagnosis (CVAMD) at ICCV, 2025</em>  
 **<em>Oral presentation</em>**  
-[[paper](https://www.arxiv.org/pdf/2508.02951)] [[datasets & project page](https://medblink-benchmark.github.io/)]
+[[paper](https://www.arxiv.org/pdf/2508.02951)] [[project page](https://medblink-benchmark.github.io/)] [[hf dataset](https://huggingface.co/datasets/MahtabBg/MedBLINK)]
 
 - **Tiered Agentic Oversight: A Hierarchical Multi-Agent System for AI Safety in Healthcare**  
 Yubin Kim, Hyewon Jeong, Chanwoo Park, **MingYu Lu**, Eugene W Park, Haipeng Zhang, Xin Liu, Hyeonhoon Lee, Daniel McDuff, Cynthia Breazeal, Samir Tulebaev, Hae Won Park  
