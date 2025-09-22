@@ -32,7 +32,7 @@ Chris Lin *, **Mingyu Lu** * , Su-In Lee
 <em>International Conference on Learning Representations (ICLR), 2025</em>  
 [[paper](https://arxiv.org/pdf/2407.03153)][[project page](https://q8888620002.github.io/contributor-attribution/)][[code](https://github.com/q8888620002/Group-Attribution-for-Diffusion-Models)]
   
-- **Learning to maximize mutual information for dynamic feature selection**  
+- **Learning to Maximize Mutual Information for Dynamic Feature Selection**  
 Ian Connick Covert, Wei Qiu, **MingYu Lu**, Na Yoon Kim, Nathan J White, Su-In Lee  
 <em>International Conference on Machine Learning (ICML), 2023</em>  
 [[paper](https://proceedings.mlr.press/v202/covert23a/covert23a.pdf)][[code](https://github.com/q8888620002/dynamic-selection)]
