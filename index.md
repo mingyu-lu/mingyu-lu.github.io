@@ -10,14 +10,12 @@ Hi! I am a 4th-year CSE Ph.D. student at the University of Washington, advised b
 
 I’ve been fortunate to work with many amazing people, and I’m always excited about new opportunities to collaborate. You can reach out to me at mingyulu[at]cs[dot]washington[dot]edu
 
-### Recent Update
+## Recent Update
 
 I will be working with [Suraj Srinivas](https://suraj-srinivas.github.io/) and [Jorge Piazentin Ono](https://jorgehpo.github.io/) at Bosch Research during the summer of 2025!
 
 
-## Publications and preprints
-
-### Conference publications
+## Conference publications
 
 - **CellCLIP – Learning Perturbation Effects in Cell Painting via Text-Guided Contrastive Learning**  
 **Mingyu Lu**, Ethan Weinberger, Chanwoo Kim, Su-In Lee  
@@ -50,7 +48,7 @@ Rui Li, Stephanie Hu, Yuria Utsumi, **MingYu Lu**, Prithwish Chakraborty, Daby S
 **<em>Distinguished Paper</em>**  
 [[paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8075511/)]
 
-### Workshop and prepints
+## Workshop and prepints
 
 - **MedBLINK:Probing Visual Perception and Trustworthiness in Multimodal Language Models for Medicine**
 Mahtab Bigverdi, Wisdom Oluchi Ikezogwo, Kevin Minghan Zhang, Hyewon Jeong, **MingYu Lu**, Sungjae Cho, Linda Shapiro, Ranjay Krishna  
