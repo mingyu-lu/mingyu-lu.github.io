@@ -21,7 +21,7 @@ I will be working with [Suraj Srinivas](https://suraj-srinivas.github.io/) and [
 
 - **CellCLIP – Learning Perturbation Effects in Cell Painting via Text-Guided Contrastive Learning**  
 **Mingyu Lu**, Ethan Weinberger, Chanwoo Kim, Su-In Lee  
-<em>NeurIPS 2025</em> [[paper](https://openreview.net/pdf?id=xyDN69Dw4y)][[code](https://github.com/suinleelab/CellCLIP)][[project pate](https://q8888620002.github.io/CellCLIP-website/)]
+<em>NeurIPS 2025</em> [[paper](https://openreview.net/pdf?id=xyDN69Dw4y)][[code](https://github.com/suinleelab/CellCLIP)][[project page](https://q8888620002.github.io/CellCLIP-website/)]
 
 -	**BehaviorSFT: Behavioral Token Conditioning for Clinical Agents Across the Proactivity Spectrum**  
 Yubin Kim, Zhiyuan Hu, Hyewon Jeong, Eugene W Park, Shuyue Stella Li, Chanwoo Park, Shiyun Xiong, **MingYu Lu**, Hyeonhoon Lee, Xin Liu, Daniel McDuff, Cynthia Breazeal, Samir Tulebaev, Hae Won Park  
