@@ -19,7 +19,9 @@ I will be working with [Suraj Srinivas](https://suraj-srinivas.github.io/) and [
 
 ### Explainable AI
 
--  Chris Lin *, **Mingyu Lu** * , Su-In Lee. An Efficient Framework for Crediting Data Contributors of Diffusion Models **ICLR 2025** [[paper](https://arxiv.org/pdf/2407.03153)] [[project page](https://q8888620002.github.io/contributor-attribution/)][[code](https://github.com/q8888620002/Group-Attribution-for-Diffusion-Models)]
+-  **An Efficient Framework for Crediting Data Contributors of Diffusion Models**
+Chris Lin *, **Mingyu Lu** * , Su-In Lee.  
+**ICLR 2025** [[paper](https://arxiv.org/pdf/2407.03153)] [[project page](https://q8888620002.github.io/contributor-attribution/)][[code](https://github.com/q8888620002/Group-Attribution-for-Diffusion-Models)]
   
 - Ian Connick Covert, Wei Qiu, **MingYu Lu**, Na Yoon Kim, Nathan J White, Su-In Lee. Learning to maximize mutual information for dynamic feature selection **ICML 2023** [[paper]](https://proceedings.mlr.press/v202/covert23a/covert23a.pdf) [[code]](https://github.com/q8888620002/dynamic-selection)
 
