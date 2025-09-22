@@ -46,7 +46,8 @@ Rui Li, Stephanie Hu, Yuria Utsumi, **MingYu Lu**, Prithwish Chakraborty, Daby S
   
 - **Is Deep Reinforcement Learning Ready for Practical Applications in Healthcare? A Sensitivity Analysis of Duel-DDQN for Sepsis Treatment.**  
 **MingYu Lu**, Zach Shah, Finale Doshi Velez, Li-Wei Lehman.  
-<em>American Medical Informatics Association (AMIA) 2020 Distinguished Paper</em>  
+<em>American Medical Informatics Association (AMIA) 2020 </em>  
+**<em><span style="color:red;">Distinguished Paper</span></em>**  
 [[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8075511/)
 
 ### Workshop and prepints
