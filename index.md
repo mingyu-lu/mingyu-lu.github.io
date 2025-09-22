@@ -22,7 +22,7 @@ I will be working with [Suraj Srinivas](https://suraj-srinivas.github.io/) and [
 - **CellCLIP – Learning Perturbation Effects in Cell Painting via Text-Guided Contrastive Learning**  
 **Mingyu Lu**, Ethan Weinberger, Chanwoo Kim, Su-In Lee  
 <em>NeurIPS 2025</em>  
-[[paper](https://openreview.net/pdf?id=xyDN69Dw4y)][[code](https://github.com/suinleelab/CellCLIP)][[project page](https://q8888620002.github.io/CellCLIP-website/)]
+[[paper](https://openreview.net/pdf?id=xyDN69Dw4y)][[project page](https://q8888620002.github.io/CellCLIP-website/)][[code](https://github.com/suinleelab/CellCLIP)]
 
 -	**BehaviorSFT: Behavioral Token Conditioning for Clinical Agents Across the Proactivity Spectrum**  
 Yubin Kim, Zhiyuan Hu, Hyewon Jeong, Eugene W Park, Shuyue Stella Li, Chanwoo Park, Shiyun Xiong, **MingYu Lu**, Hyeonhoon Lee, Xin Liu, Daniel McDuff, Cynthia Breazeal, Samir Tulebaev, Hae Won Park  
@@ -35,7 +35,7 @@ Chris Lin *, **Mingyu Lu** * , Su-In Lee
 [[paper](https://arxiv.org/pdf/2407.03153)][[project page](https://q8888620002.github.io/contributor-attribution/)][[code](https://github.com/q8888620002/Group-Attribution-for-Diffusion-Models)]
   
 - **Learning to maximize mutual information for dynamic feature selection**  
-Ian Connick Covert, Wei Qiu, **MingYu Lu**, Na Yoon Kim, Nathan J White, Su-In Lee.  
+Ian Connick Covert, Wei Qiu, **MingYu Lu**, Na Yoon Kim, Nathan J White, Su-In Lee  
 <em>ICML 2023</em>  
 [[paper](https://proceedings.mlr.press/v202/covert23a/covert23a.pdf)][[code](https://github.com/q8888620002/dynamic-selection)]
 
