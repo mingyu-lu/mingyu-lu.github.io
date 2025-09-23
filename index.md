@@ -24,7 +24,7 @@ I will be working with [Suraj Srinivas](https://suraj-srinivas.github.io/) and [
 
 -	**BehaviorSFT: Behavioral Token Conditioning for Clinical Agents Across the Proactivity Spectrum**  
 Yubin Kim, Zhiyuan Hu, Hyewon Jeong, Eugene W Park, Shuyue Stella Li, Chanwoo Park, Shiyun Xiong, **MingYu Lu**, Hyeonhoon Lee, Xin Liu, Daniel McDuff, Cynthia Breazeal, Samir Tulebaev, Hae Won Park  
-<em>Empirical Methods in Natural Language Processing (EMNLP) findings, 2025</em>  
+<em>Findings of Empirical Methods in Natural Language Processing (EMNLP), 2025</em>  
 [[paper](https://arxiv.org/pdf/2505.21757)] [[code](https://drive.google.com/file/d/1ARra3jLP1nGTvkjitgW3m64YVzvxGr07/view)] [[project page](https://behavior-adaptation.github.io/)]  
 
 - **An Efficient Framework for Crediting Data Contributors of Diffusion Models**  
