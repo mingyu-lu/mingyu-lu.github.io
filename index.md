@@ -8,11 +8,14 @@ layout: default
 
 Hi! I am a 4th-year CSE Ph.D. student at the University of Washington, advised by Su-In Lee at [Artificial Intelligence for Biological and Medical Sciences (AIMS)](https://aims.cs.washington.edu/). My research focuses on the intersection of explainable AI, particularly feature and data attribution, generative models, and treatment effect estimation. I apply these methods to improve model transparency, fairness, and safety, aiming to enhance understanding and decision-making in complex real-world settings, particularly in the biomedical domain. 
 
+Previously, I worked with [Li-wei Lehman](https://web.mit.edu/lilehman/www/), [Zach Shahn](https://sph.cuny.edu/about/people/faculty/zach-shahn/), and [Finale Doshi-Velez](https://finale.seas.harvard.edu/). Outside of school, I have spent summers interning at research labs in academia and industry: [LCP](https://lcp.mit.edu/) at MIT, and Bosch Research. I completed my undergraduate studies in Medicine at Kaohsiung Medical University (KMU) and earned a master's degree in Biomedical Informatics from Harvard Medical School's Department of Biomedical Informatics (DBMI).
+
 I’ve been fortunate to work with many amazing people, and I’m always excited about new opportunities to collaborate. You can reach out to me at mingyulu[at]cs[dot]washington[dot]edu
 
 ## Recent update
 
-I will be working with [Suraj Srinivas](https://suraj-srinivas.github.io/) and [Jorge Piazentin Ono](https://jorgehpo.github.io/) at Bosch Research during the summer of 2025!
+* [CellCLIP – Learning Perturbation Effects in Cell Painting via Text-Guided Contrastive Learning](https://arxiv.org/abs/2506.06290) has been accepted to NeurIPS 2025!
+* I will be working with [Suraj Srinivas](https://suraj-srinivas.github.io/) and [Jorge Piazentin Ono](https://jorgehpo.github.io/) at Bosch Research during the summer of 2025!
 
 
 ## Conference publications
@@ -20,7 +23,7 @@ I will be working with [Suraj Srinivas](https://suraj-srinivas.github.io/) and [
 - **CellCLIP – Learning Perturbation Effects in Cell Painting via Text-Guided Contrastive Learning**  
 **Mingyu Lu**, Ethan Weinberger, Chanwoo Kim, Su-In Lee  
 <em>Neural Information Processing Systems (NeurIPS), 2025</em>  
-[[paper](https://openreview.net/pdf?id=xyDN69Dw4y)] [[code](https://github.com/suinleelab/CellCLIP)] [[project page](https://q8888620002.github.io/CellCLIP-website/)]
+[[paper](https://arxiv.org/abs/2506.06290)] [[code](https://github.com/suinleelab/CellCLIP)] [[project page](https://q8888620002.github.io/CellCLIP-website/)]
 
 -	**BehaviorSFT: Behavioral Token Conditioning for Clinical Agents Across the Proactivity Spectrum**  
 Yubin Kim, Zhiyuan Hu, Hyewon Jeong, Eugene W Park, Shuyue Stella Li, Chanwoo Park, Shiyun Xiong, **MingYu Lu**, Hyeonhoon Lee, Xin Liu, Daniel McDuff, Cynthia Breazeal, Samir Tulebaev, Hae Won Park  
