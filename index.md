@@ -14,9 +14,8 @@ I’ve been fortunate to work with many amazing people, and I’m always excited
 
 ## Recent update
 
-* [CellCLIP – Learning Perturbation Effects in Cell Painting via Text-Guided Contrastive Learning](https://arxiv.org/abs/2506.06290) has been accepted to NeurIPS 2025!
-* I will be working with [Suraj Srinivas](https://suraj-srinivas.github.io/) and [Jorge Piazentin Ono](https://jorgehpo.github.io/) at Bosch Research during the summer of 2025!
-
+* (September 2025) [CellCLIP – Learning Perturbation Effects in Cell Painting via Text-Guided Contrastive Learning](https://arxiv.org/abs/2506.06290) has been accepted to NeurIPS 2025!
+* (June 2025) I will be working with [Suraj Srinivas](https://suraj-srinivas.github.io/) and [Jorge Piazentin Ono](https://jorgehpo.github.io/) at Bosch Research during the summer of 2025!
 
 ## Conference publications
 
