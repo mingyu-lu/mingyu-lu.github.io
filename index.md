@@ -69,10 +69,9 @@ Yubin Kim, Hyewon Jeong, Shan Chen, Shuyue Stella Li, **Mingyu Lu**, Kumail Alha
 <em>medRxiv, 2025</em>  
 [[paper](https://arxiv.org/pdf/2503.05777)]
 
-- **CODE-XAI: Construing and Deciphering Treatment Effects via Explainable AI using Real-world Data**  
-**Mingyu Lu**, Ian Covert, Nathan J White, Su-In Lee  
+- **LIFT - XAI: Leveraging Important Features in Treatment Effects to Inform Clinical Decision-Making via Explainable AI**, Ian Covert, Nathan J White, Su-In Lee  
 <em>medRxiv, 2024</em>  
-[[paper](https://www.medrxiv.org/content/medrxiv/early/2024/09/06/2024.09.04.24312866.full.pdf)]
+[[paper](https://www.medrxiv.org/content/10.1101/2024.09.04.24312866v3.full.pdf)]
   
 - **A Deep Bayesian Bandits Approach for Anticancer Drug Screening: Exploration via Functional Prior.**  
 **MingYu Lu**, Yifang Chen, Su-In Lee  
