@@ -67,7 +67,7 @@ Yubin Kim, Hyewon Jeong, Chanwoo Park, **MingYu Lu**, Eugene W Park, Haipeng Zha
 - **Medical Hallucination in Foundation Models and Their Impact on Healthcare**  
 Yubin Kim, Hyewon Jeong, Shan Chen, Shuyue Stella Li, **Mingyu Lu**, Kumail Alhamoud, Jimin Mun, Cristina Grau, Minseok Jung, Rodrigo Gameiro, Lizhou Fan, Eugene Park, Tristan Lin, Joonsik Yoon, Wonjin Yoon, Maarten Sap, Yulia Tsvetkov, Paul Liang, Xuhai Xu, Xin Liu, Daniel McDuff, Hyeonhoon Lee, Hae Won Park, Samir Tulebaev, Cynthia Breazea  
 <em>medRxiv, 2025</em>  
-[[paper](https://arxiv.org/pdf/2503.05777)]
+[[paper](https://arxiv.org/pdf/2503.05777)] [[project page](https://medical-hallucination2025.github.io/)] [[code](https://github.com/mitmedialab/medical_hallucination)]
 
 - **LIFT - XAI: Leveraging Important Features in Treatment Effects to Inform Clinical Decision-Making via Explainable AI**, Ian Covert, Nathan J White, Su-In Lee  
 <em>medRxiv, 2024</em>  
