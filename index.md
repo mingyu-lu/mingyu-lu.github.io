@@ -81,9 +81,12 @@ Yubin Kim, Hyewon Jeong, Shan Chen, Shuyue Stella Li, **Mingyu Lu**, Kumail Alha
 
 ## Leadership/Awards
 
-
 Year | Leadership/Awards
 -----|---------------
 2020 | Organizer of NewInML at NeurIPS 2020 
 2019 | LEAP Fellowship of the Ministry of Science and Technology of Taiwan. 
 2017 | CoFounder of [TinyNote](https://thetinynotes.com/)
+
+## Academic service
+
+- **Conference reviewing**: NeurIPS (2024, 2025), ICLR (2025), AMIA (2020), CHIL (2020), ML4H@NeurIPS (2019-2020), DPFM@ICLR (2025), LMRL@ICLR (2025)
