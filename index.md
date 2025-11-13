@@ -69,7 +69,7 @@ Yubin Kim, Hyewon Jeong, Shan Chen, Shuyue Stella Li, **Mingyu Lu**, Kumail Alha
 <em>medRxiv, 2025</em>  
 [[paper](https://arxiv.org/pdf/2503.05777)] [[code](https://github.com/mitmedialab/medical_hallucination)] [[project page](https://medical-hallucination2025.github.io/)] 
 
-- **LIFT - XAI: Leveraging Important Features in Treatment Effects to Inform Clinical Decision-Making via Explainable AI**, Ian Covert, Nathan J White, Su-In Lee  
+- **LIFT - XAI: Leveraging Important Features in Treatment Effects to Inform Clinical Decision-Making via Explainable AI**, Chanwoo Kim, Ian Covert, Nathan J White, Su-In Lee  
 <em>medRxiv, 2024</em>  
 [[paper](https://www.medrxiv.org/content/10.1101/2024.09.04.24312866v3.full.pdf)]
   
