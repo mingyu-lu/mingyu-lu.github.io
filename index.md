@@ -54,7 +54,7 @@ Rui Li, Stephanie Hu, Yuria Utsumi, **MingYu Lu**, Prithwish Chakraborty, Daby S
 ## Workshop and prepints
 
 - **SurrogateSHAP: Training-Free Contributor Attribution for Text-to-Image (T2I) Models**  
-**Mingyu Lu**, Soham Gadgil, Chris Lin, Chanwoo Kim, Su-In Lee 
+**Mingyu Lu**, Soham Gadgil, Chris Lin, Chanwoo Kim, Su-In Lee
 <em>arXiv, 2026</em>  
 [[paper](https://arxiv.org/pdf/2601.22276)]
 
@@ -94,4 +94,4 @@ Year | Leadership/Awards
 
 ## Academic service
 
-- **Conference reviewing**: NeurIPS (2024, 2025), ICLR (2025), AMIA (2020), CHIL (2020), ML4H@NeurIPS (2019-2020), DPFM@ICLR (2025), LMRL@ICLR (2025)
+- **Conference reviewing**: NeurIPS (2024,2025), ICLR (2026), ICML (2026), AMIA (2020), CHIL (2020), ML4H@NeurIPS (2019,2020), DPFM@ICLR (2025,2026), LMRL@ICLR (2025)
