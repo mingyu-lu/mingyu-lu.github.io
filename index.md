@@ -54,7 +54,7 @@ Rui Li, Stephanie Hu, Yuria Utsumi, **MingYu Lu**, Prithwish Chakraborty, Daby S
 ## Workshop and prepints
 
 - **SurrogateSHAP: Training-Free Contributor Attribution for Text-to-Image (T2I) Models**  
-**Mingyu Lu**, Soham Gadgil, Chris Lin, Chanwoo Kim, Su-In Lee
+**Mingyu Lu**, Soham Gadgil, Chris Lin, Chanwoo Kim, Su-In Lee 
 <em>arXiv, 2026</em>  
 [[paper](https://arxiv.org/pdf/2601.22276)]
 
