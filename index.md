@@ -56,12 +56,12 @@ Rui Li, Stephanie Hu, Yuria Utsumi, **MingYu Lu**, Prithwish Chakraborty, Daby S
 - **Agent That Matters: An Attribution Framework for Multi-Agent LLMs**  
   **Mingyu Lu**\*, YuShan Huang\*, Su-In Lee  
   *Agents in the Wild: Safety, Security, and Beyond at ICLR, 2026*  
-  [[paper]]
+  [paper]
 
 - **SurrogateSHAP: Training-Free Contributor Attribution for Text-to-Image (T2I) Models**  
-**Mingyu Lu**, Soham Gadgil, Chris Lin, Chanwoo Kim, Su-In Lee
-<em>arXiv, 2026</em>  
-[[paper](https://arxiv.org/pdf/2601.22276)]
+  **Mingyu Lu**, Soham Gadgil, Chris Lin, Chanwoo Kim, Su-In Lee  
+  *arXiv, 2026*  
+  [[paper](https://arxiv.org/pdf/2601.22276)]
 
 - **MedBLINK:Probing Visual Perception and Trustworthiness in Multimodal Language Models for Medicine**
 Mahtab Bigverdi, Wisdom Oluchi Ikezogwo, Kevin Minghan Zhang, Hyewon Jeong, **MingYu Lu**, Sungjae Cho, Linda Shapiro, Ranjay Krishna  
