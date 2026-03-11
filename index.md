@@ -51,7 +51,12 @@ Rui Li, Stephanie Hu, Yuria Utsumi, **MingYu Lu**, Prithwish Chakraborty, Daby S
 **<em>Distinguished Paper</em>**  
 [[paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8075511/)]
 
-## Workshop and prepints
+## Workshop and preprints
+
+- **Agent That Matters: An Attribution Framework for Multi-Agent LLMs**  
+  **Mingyu Lu**\*, YuShan Huang\*, Su-In Lee  
+  *Agents in the Wild: Safety, Security, and Beyond at ICLR, 2026*  
+  [[paper]]
 
 - **SurrogateSHAP: Training-Free Contributor Attribution for Text-to-Image (T2I) Models**  
 **Mingyu Lu**, Soham Gadgil, Chris Lin, Chanwoo Kim, Su-In Lee
