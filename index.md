@@ -14,11 +14,17 @@ Computational Physiology](https://lcp.mit.edu/) at MIT, and [Bosch Research](htt
 I’ve been fortunate to work with many amazing people, and I’m always excited about new opportunities to collaborate. You can reach out to me at mingyulu[at]cs[dot]washington[dot]edu
 
 ## Recent update
+* (April 2025) [SurrogateSHAP](https://arxiv.org/pdf/2601.22276) has been accepted to ICML 2026!
 * (January 2026) New paper [SurrogateSHAP: Training-Free Contributor Attribution for Text-to-Image (T2I) Models](https://arxiv.org/pdf/2601.22276)!
 * (September 2025) [CellCLIP – Learning Perturbation Effects in Cell Painting via Text-Guided Contrastive Learning](https://arxiv.org/abs/2506.06290) has been accepted to NeurIPS 2025!
 * (June 2025) I will be working with [Suraj Srinivas](https://suraj-srinivas.github.io/) and [Jorge Piazentin Ono](https://jorgehpo.github.io/) at Bosch Research during the summer of 2025!
 
 ## Conference publications
+
+- **SurrogateSHAP: Training-Free Contributor Attribution for Text-to-Image (T2I) Models**  
+  **Mingyu Lu**, Soham Gadgil, Chris Lin, Chanwoo Kim, Su-In Lee  
+  <em>International Conference on Machine Learning (ICML), 2026</em>  
+  [[paper](https://arxiv.org/pdf/2601.22276)]
 
 - **CellCLIP – Learning Perturbation Effects in Cell Painting via Text-Guided Contrastive Learning**  
 **Mingyu Lu**, Ethan Weinberger, Chanwoo Kim, Su-In Lee  
@@ -57,11 +63,6 @@ Rui Li, Stephanie Hu, Yuria Utsumi, **MingYu Lu**, Prithwish Chakraborty, Daby S
   **Mingyu Lu**\*, YuShan Huang\*, Su-In Lee  
   *Agents in the Wild: Safety, Security, and Beyond at ICLR, 2026*  
   [paper]
-
-- **SurrogateSHAP: Training-Free Contributor Attribution for Text-to-Image (T2I) Models**  
-  **Mingyu Lu**, Soham Gadgil, Chris Lin, Chanwoo Kim, Su-In Lee  
-  *arXiv, 2026*  
-  [[paper](https://arxiv.org/pdf/2601.22276)]
 
 - **MedBLINK:Probing Visual Perception and Trustworthiness in Multimodal Language Models for Medicine**
 Mahtab Bigverdi, Wisdom Oluchi Ikezogwo, Kevin Minghan Zhang, Hyewon Jeong, **MingYu Lu**, Sungjae Cho, Linda Shapiro, Ranjay Krishna  
