@@ -22,9 +22,9 @@ I’ve been fortunate to work with many amazing people, and I’m always excited
 ## Conference publications
 
 - **SurrogateSHAP: Training-Free Contributor Attribution for Text-to-Image (T2I) Models**  
-  **Mingyu Lu**, Soham Gadgil, Chris Lin, Chanwoo Kim, Su-In Lee  
-  <em>International Conference on Machine Learning (ICML), 2026</em>  
-  [[paper](https://arxiv.org/pdf/2601.22276)]
+ **Mingyu Lu**, Soham Gadgil, Chris Lin, Chanwoo Kim, Su-In Lee  
+ <em>International Conference on Machine Learning (ICML), 2026</em>  
+ [[paper](https://arxiv.org/pdf/2601.22276)] [[code](https://github.com/suinleelab/SurrogateSHAP)]
 
 - **CellCLIP – Learning Perturbation Effects in Cell Painting via Text-Guided Contrastive Learning**  
 **Mingyu Lu**, Ethan Weinberger, Chanwoo Kim, Su-In Lee  
