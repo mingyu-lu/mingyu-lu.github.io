@@ -37,7 +37,7 @@ Yubin Kim, Zhiyuan Hu, Hyewon Jeong, Eugene W Park, Shuyue Stella Li, Chanwoo Pa
 [[paper](https://arxiv.org/pdf/2505.21757)] [[code](https://drive.google.com/file/d/1ARra3jLP1nGTvkjitgW3m64YVzvxGr07/view)] [[project page](https://behavior-adaptation.github.io/)]  
 
 - **An Efficient Framework for Crediting Data Contributors of Diffusion Models**  
-Chris Lin *, **Mingyu Lu** * , Su-In Lee  
+Chris Lin\*, **Mingyu Lu**\*, Su-In Lee  
 <em>International Conference on Learning Representations (ICLR), 2025</em>  
 [[paper](https://arxiv.org/pdf/2407.03153)] [[code](https://github.com/q8888620002/Group-Attribution-for-Diffusion-Models)] [[project page](https://q8888620002.github.io/contributor-attribution/)]
   
