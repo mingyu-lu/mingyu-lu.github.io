@@ -58,13 +58,17 @@ Rui Li, Stephanie Hu, Yuria Utsumi, **MingYu Lu**, Prithwish Chakraborty, Daby S
 [[paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8075511/)]
 
 ## Workshop and preprints
+- **ALEX: Automatic Language EXplanations for Interpreting Treatment Effects via Multi-Agents**  
+  **Mingyu Lu**, Chanwoo Kim, Nathan J. While, Su-In Lee  
+  <em>medRxiv, 2026</em>  
+  [[paper](https://www.medrxiv.org/content/10.64898/2026.04.23.26351510v1)]
 
 - **Agent That Matters: An Attribution Framework for Multi-Agent LLMs**  
   **Mingyu Lu**\*, YuShan Huang\*, Su-In Lee  
   *Agents in the Wild: Safety, Security, and Beyond at ICLR, 2026*  
-  [paper]
+  [[paper](https://openreview.net/pdf?id=esabw9linR)]
 
-- **MedBLINK:Probing Visual Perception and Trustworthiness in Multimodal Language Models for Medicine**
+- **MedBLINK:Probing Visual Perception and Trustworthiness in Multimodal Language Models for Medicine**  
 Mahtab Bigverdi, Wisdom Oluchi Ikezogwo, Kevin Minghan Zhang, Hyewon Jeong, **MingYu Lu**, Sungjae Cho, Linda Shapiro, Ranjay Krishna  
 <em>Computer Vision for Automated Medical Diagnosis (CVAMD) at ICCV, 2025</em>  
 **<em>Oral presentation</em>**  
@@ -80,7 +84,8 @@ Yubin Kim, Hyewon Jeong, Shan Chen, Shuyue Stella Li, **Mingyu Lu**, Kumail Alha
 <em>medRxiv, 2025</em>  
 [[paper](https://arxiv.org/pdf/2503.05777)] [[code](https://github.com/mitmedialab/medical_hallucination)] [[project page](https://medical-hallucination2025.github.io/)] 
 
-- **LIFT - XAI: Leveraging Important Features in Treatment Effects to Inform Clinical Decision-Making via Explainable AI**, Chanwoo Kim, Ian Covert, Nathan J White, Su-In Lee  
+- **LIFT - XAI: Leveraging Important Features in Treatment Effects to Inform Clinical Decision-Making via Explainable AI**  
+**Mingyu Lu**, Chanwoo Kim, Ian Covert, Nathan J White, Su-In Lee  
 <em>medRxiv, 2024</em>  
 [[paper](https://www.medrxiv.org/content/10.1101/2024.09.04.24312866v3.full.pdf)]
   
@@ -100,4 +105,4 @@ Year | Leadership/Awards
 
 ## Academic service
 
-- **Conference reviewing**: NeurIPS (2024,2025), ICLR (2026), ICML (2026), AMIA (2020), CHIL (2020), ML4H@NeurIPS (2019,2020), DPFM@ICLR (2025,2026), LMRL@ICLR (2025)
+- **Conference reviewing**: NeurIPS (2024,2025), ICLR (2026), ICML (2026), ECCV (2026), AMIA (2020), CHIL (2020), ML4H@NeurIPS (2019,2020), DPFM@ICLR (2025,2026), LMRL@ICLR (2025)
