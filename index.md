@@ -106,4 +106,4 @@ Year | Leadership/Awards
 
 ## Academic service
 
-- **Conference reviewing**: NeurIPS (2024,2025), ICLR (2026), ICML (2026), ECCV (2026), AMIA (2020), CHIL (2020), ML4H@NeurIPS (2019,2020), DPFM@ICLR (2025,2026), LMRL@ICLR (2025)
+- **Conference reviewing**: NeurIPS (2024-2026), ICLR (2026), ICML (2026), ECCV (2026), AMIA (2020), CHIL (2020), ML4H@NeurIPS (2019,2020), DPFM@ICLR (2025,2026), LMRL@ICLR (2025)
