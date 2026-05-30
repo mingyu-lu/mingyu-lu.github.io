@@ -14,6 +14,7 @@ Computational Physiology](https://lcp.mit.edu/) at MIT, and [Bosch Research](htt
 I’ve been fortunate to work with many amazing people, and I’m always excited about new opportunities to collaborate. You can reach out to me at mingyulu[at]cs[dot]washington[dot]edu
 
 ## Recent update
+* (May 2026) New paper [Agents that Matter: Optimizing Multi-Agent LLMs via Removal-Based Attribution](https://arxiv.org/pdf/2605.27621)!
 * (April 2026) [SurrogateSHAP](https://arxiv.org/pdf/2601.22276) has been accepted to ICML 2026!
 * (January 2026) New paper [SurrogateSHAP: Training-Free Contributor Attribution for Text-to-Image (T2I) Models](https://arxiv.org/pdf/2601.22276)!
 * (September 2025) [CellCLIP – Learning Perturbation Effects in Cell Painting via Text-Guided Contrastive Learning](https://arxiv.org/abs/2506.06290) has been accepted to NeurIPS 2025!
@@ -58,15 +59,15 @@ Rui Li, Stephanie Hu, Yuria Utsumi, **MingYu Lu**, Prithwish Chakraborty, Daby S
 [[paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8075511/)]
 
 ## Workshop and preprints
+- **Agents that Matter: Optimizing Multi-Agent LLMs via Removal-Based Attribution**  
+  **Mingyu Lu**\*, YuShan Huang\*, Su-In Lee  
+  *Agents in the Wild: Safety, Security, and Beyond at ICLR, 2026*  
+  [[paper](https://arxiv.org/pdf/2605.27621)]
+  
 - **ALEX: Automatic Language EXplanations for Interpreting Treatment Effects via Multi-Agents**  
   **Mingyu Lu**, Chanwoo Kim, Nathan J. While, Su-In Lee  
   <em>medRxiv, 2026</em>  
   [[paper](https://www.medrxiv.org/content/10.64898/2026.04.23.26351510v1)]
-
-- **Agent That Matters: An Attribution Framework for Multi-Agent LLMs**  
-  **Mingyu Lu**\*, YuShan Huang\*, Su-In Lee  
-  *Agents in the Wild: Safety, Security, and Beyond at ICLR, 2026*  
-  [[paper](https://openreview.net/pdf?id=esabw9linR)]
 
 - **MedBLINK:Probing Visual Perception and Trustworthiness in Multimodal Language Models for Medicine**  
 Mahtab Bigverdi, Wisdom Oluchi Ikezogwo, Kevin Minghan Zhang, Hyewon Jeong, **MingYu Lu**, Sungjae Cho, Linda Shapiro, Ranjay Krishna  
