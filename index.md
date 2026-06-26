@@ -69,7 +69,7 @@ Rui Li, Stephanie Hu, Yuria Utsumi, **MingYu Lu**, Prithwish Chakraborty, Daby S
 - **ALEX: Automatic Language EXplanations for Interpreting Treatment Effects via Multi-Agents**  
   **Mingyu Lu**, Chanwoo Kim, Nathan J. While, Su-In Lee  
   <em>medRxiv, 2026</em>  
-  [[paper](https://www.medrxiv.org/content/10.64898/2026.04.23.26351510v1)]
+  [[paper](https://www.medrxiv.org/content/10.64898/2026.04.23.26351510v2)]
 
 - **MedBLINK:Probing Visual Perception and Trustworthiness in Multimodal Language Models for Medicine**  
 Mahtab Bigverdi, Wisdom Oluchi Ikezogwo, Kevin Minghan Zhang, Hyewon Jeong, **MingYu Lu**, Sungjae Cho, Linda Shapiro, Ranjay Krishna  
