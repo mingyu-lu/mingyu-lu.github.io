@@ -14,6 +14,8 @@ Computational Physiology](https://lcp.mit.edu/) at MIT, and [Bosch Research](htt
 I’ve been fortunate to work with many amazing people, and I’m always excited about new opportunities to collaborate. You can reach out to me at mingyulu[at]cs[dot]washington[dot]edu
 
 ## Recent update
+* (June 2026) I will be working with [Peniel Argaw](https://www.microsoft.com/en-us/research/people/penielargaw/) and [Tristan Naumann
+](https://www.microsoft.com/en-us/research/people/tristan/) at Microsoft Research during the summer of 2026!
 * (May 2026) New paper [Agents that Matter: Optimizing Multi-Agent LLMs via Removal-Based Attribution](https://arxiv.org/pdf/2605.27621)!
 * (April 2026) [SurrogateSHAP](https://arxiv.org/pdf/2601.22276) has been accepted to ICML 2026!
 * (January 2026) New paper [SurrogateSHAP: Training-Free Contributor Attribution for Text-to-Image (T2I) Models](https://arxiv.org/pdf/2601.22276)!
