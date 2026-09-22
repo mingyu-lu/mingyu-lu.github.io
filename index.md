@@ -15,7 +15,7 @@ Hi! I am a final-year Computer Science & Engineering (CSE) Ph.D. student at the 
 I am passionate about applying these techniques to accelerate real-world impact in healthcare and drug discovery. I've been fortunate to work with many wonderful collaborators and am always excited to connect on new research opportunities.
 
 ### Background
-Previously, I collaborated with [Li-wei Lehman](https://web.mit.edu/lilehman/www/), [Zach Shahn](https://sph.cuny.edu/about/people/faculty/zach-shahn/), and [Finale Doshi-Velez](https://finale.seas.harvard.edu/) at Harvard and MIT. I have also spent summers interning at academic and industrial research labs, including the [Laboratory for Computational Physiology](https://lcp.mit.edu/) at MIT, [Bosch Research](https://www.bosch-ai.com/), and Microsoft Research (Real-World Evidence group, now part of MAI). 
+Previously, I collaborated with [Li-wei Lehman](https://web.mit.edu/lilehman/www/), [Zach Shahn](https://sph.cuny.edu/about/people/faculty/zach-shahn/), and [Finale Doshi-Velez](https://finale.seas.harvard.edu/) at Harvard and MIT. I have also spent summers interning at academic and industrial research labs, including the [Laboratory for Computational Physiology](https://lcp.mit.edu/) at MIT, [Bosch Research](https://www.bosch-ai.com/), and [Microsoft AI (formerly MSR-RWE)](https://www.microsoft.com/en-us/research/group/real-world-evidence/). 
 
 Before my Ph.D., I earned my MD from Kaohsiung Medical University and completed a Master’s in Biomedical Informatics at Harvard Medical School.
 
