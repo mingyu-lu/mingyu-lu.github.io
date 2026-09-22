@@ -5,6 +5,9 @@ layout: default
 ## About me
 
 <img class="profile-picture" src="profile.jpg">
+
+**I am currently on the job market!** Feel free to reach out at `mingyulu[at]cs[dot]washington[dot]edu`.
+
 Hi! I am a final-year Computer Science & Engineering (CSE) Ph.D. student at the University of Washington, advised by [Su-In Lee](https://aims.cs.washington.edu/su-in-lee) in the [Artificial Intelligence for Biological and Medical Sciences (AIMS)](https://aims.cs.washington.edu/) group. My research focuses on explainable, trustworthy, and actionable AI, with key interests in:
 
 * **Data attribution for diffusion models**
@@ -20,7 +23,6 @@ Before my Ph.D., I earned my MD from Kaohsiung Medical University and completed 
 
 ---
 
-**I am currently on the job market!** Feel free to reach out at `mingyulu[at]cs[dot]washington[dot]edu`.
 
 ## Recent update
 * (June 2026) I will be working with [Peniel Argaw](https://www.microsoft.com/en-us/research/people/penielargaw/) and [Tristan Naumann
