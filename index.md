@@ -71,6 +71,11 @@ Rui Li, Stephanie Hu, Yuria Utsumi, **MingYu Lu**, Prithwish Chakraborty, Daby S
 [[paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8075511/)]
 
 ## Workshop and preprints
+- **HealthAgentBench: A Unified Benchmark Suite of Realistic Agentic Healthcare Environments for Challenging Frontier AI Agents**
+  Qianchu Liu, Sheng Zhang, Guanghui Qin, Jeya Maria Jose Valanarasu, Maximilian Rokuss, **Mingyu Lu**, Timothy Ossowski, Juan Manuel Zambrano Chaves, Cliff Wong, Peniel Argaw, Yashna Hasija, Mu Wei, Wen-wai Yim, Qin Liu, Zilin Jing, Jason Entenmann, Naoto Usuyama, Tristan Naumann, Hoifung Poon  
+  *arXiv, 2026*  
+  [[paper](https://arxiv.org/pdf/2606.31179)] [[project page](https://microsoft.github.io/HealthAgentBench/)]
+  
 - **Agents that Matter: Optimizing Multi-Agent LLMs via Removal-Based Attribution**  
   **Mingyu Lu**\*, YuShan Huang\*, Su-In Lee  
   *Agents in the Wild: Safety, Security, and Beyond at ICLR, 2026*  
