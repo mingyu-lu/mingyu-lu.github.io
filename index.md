@@ -19,7 +19,7 @@ Previously, I collaborated with [Li-wei Lehman](https://web.mit.edu/lilehman/www
 
 Before my Ph.D., I earned my MD from Kaohsiung Medical University and completed a Master’s in Biomedical Informatics at Harvard Medical School.
 
-**I plan to be on the job market in Fall 2026 – Winter 2027!** Feel free to reach out at `mingyulu[at]cs[dot]washington[dot]edu`.
+#### I plan to be on the job market in Fall 2026 – Winter 2027!** Feel free to reach out at `mingyulu[at]cs[dot]washington[dot]edu`.**
 ---
 
 
