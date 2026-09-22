@@ -5,13 +5,22 @@ layout: default
 ## About me
 
 <img class="profile-picture" src="profile.jpg">
+Hi! I am a final-year Computer Science & Engineering (CSE) Ph.D. student at the University of Washington, advised by [Su-In Lee](https://aims.cs.washington.edu/su-in-lee) in the [Artificial Intelligence for Biological and Medical Sciences (AIMS)](https://aims.cs.washington.edu/) group. My research focuses on explainable, trustworthy, and actionable AI, with key interests in:
 
-Hi! I am a 5th-year computer science & engineering (CSE) Ph.D. student at the University of Washington, advised by [Su-In Lee](https://aims.cs.washington.edu/su-in-lee) in the [Artificial Intelligence for Biological and Medical Sciences (AIMS)](https://aims.cs.washington.edu/) group. My research focuses on explainable and interpretable machine learning, particularly on attribution methods that decompose model behaviors into the contributions of different components, including individual features, samples, or data sources. I am also passionate about applying these techniques to accelerate real-world impact in domains such as healthcare and drug discovery.
+* **Data attribution for diffusion models**
+* **LLM agents for biomedicine**
+* **Explaining treatment effect estimation with natural language**
 
-Previously, I worked with [Li-wei Lehman](https://web.mit.edu/lilehman/www/), [Zach Shahn](https://sph.cuny.edu/about/people/faculty/zach-shahn/), and [Finale Doshi-Velez](https://finale.seas.harvard.edu/) at Harvard and MIT. I have spent summers interning at research labs in academia and industry: [Laboratory for
-Computational Physiology](https://lcp.mit.edu/) at MIT, and [Bosch Research](https://www.bosch-ai.com/). I earned my MD from Kaohsiung Medical University and completed a master’s degree in Biomedical Informatics at Harvard Medical School’s Department of Biomedical Informatics.
+I am passionate about applying these techniques to accelerate real-world impact in healthcare and drug discovery. I've been fortunate to work with many wonderful collaborators and am always excited to connect on new research opportunities.
 
-I’ve been fortunate to work with many amazing people, and I’m always excited about new opportunities to collaborate. You can reach out to me at mingyulu[at]cs[dot]washington[dot]edu
+### Background
+Previously, I collaborated with [Li-wei Lehman](https://web.mit.edu/lilehman/www/), [Zach Shahn](https://sph.cuny.edu/about/people/faculty/zach-shahn/), and [Finale Doshi-Velez](https://finale.seas.harvard.edu/) at Harvard and MIT. I have also spent summers interning at academic and industrial research labs, including the [Laboratory for Computational Physiology](https://lcp.mit.edu/) at MIT, [Bosch Research](https://www.bosch-ai.com/), and Microsoft Research (Real-World Evidence group, now part of MAI). 
+
+Before my Ph.D., I earned my MD from Kaohsiung Medical University and completed a Master’s in Biomedical Informatics at Harvard Medical School.
+
+---
+
+**I am currently on the job market!** Feel free to reach out at `mingyulu[at]cs[dot]washington[dot]edu`.
 
 ## Recent update
 * (June 2026) I will be working with [Peniel Argaw](https://www.microsoft.com/en-us/research/people/penielargaw/) and [Tristan Naumann
