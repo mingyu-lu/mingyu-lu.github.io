@@ -8,9 +8,9 @@ layout: default
 
 Hi! I am a final-year Computer Science & Engineering (CSE) Ph.D. student at the University of Washington, advised by [Su-In Lee](https://aims.cs.washington.edu/su-in-lee) in the [Artificial Intelligence for Biological and Medical Sciences (AIMS)](https://aims.cs.washington.edu/) group. My current research focuses on:
 
-* **Data attribution for diffusion models**
-* **LLM agents for biomedicine**
-* **Explaining treatment effect estimation with natural language**
+* **Data attribution for diffusion models** [[ICLR 2025](https://arxiv.org/abs/2407.03153)] [[ICML 2026](https://arxiv.org/abs/2601.22276)]
+* **Improving & benchmarking LLM agents for biomedicine** [[EMNLP 2025]](https://arxiv.org/pdf/2505.21757) 
+* **Explaining treatment effect estimation with natural language** [[NeurIPS 2025](https://arxiv.org/abs/2506.06290)][[medRxiv](https://www.medrxiv.org/content/10.64898/2026.04.23.26351510v2)]
 
 I am passionate about applying these techniques to accelerate real-world impact in healthcare and drug discovery. I've been fortunate to work with many wonderful collaborators and am always excited to connect on new research opportunities.
 
