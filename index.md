@@ -6,8 +6,6 @@ layout: default
 
 <img class="profile-picture" src="profile.jpg">
 
-**I am currently on the job market!** Feel free to reach out at `mingyulu[at]cs[dot]washington[dot]edu`.
-
 Hi! I am a final-year Computer Science & Engineering (CSE) Ph.D. student at the University of Washington, advised by [Su-In Lee](https://aims.cs.washington.edu/su-in-lee) in the [Artificial Intelligence for Biological and Medical Sciences (AIMS)](https://aims.cs.washington.edu/) group. My current research focuses on:
 
 * **Data attribution for diffusion models**
@@ -20,6 +18,8 @@ I am passionate about applying these techniques to accelerate real-world impact 
 Previously, I collaborated with [Li-wei Lehman](https://web.mit.edu/lilehman/www/), [Zach Shahn](https://sph.cuny.edu/about/people/faculty/zach-shahn/), and [Finale Doshi-Velez](https://finale.seas.harvard.edu/) at Harvard and MIT. I have also spent summers interning at academic and industrial research labs, including the [Laboratory for Computational Physiology](https://lcp.mit.edu/) at MIT, [Bosch Research](https://www.bosch-ai.com/), and Microsoft Research (Real-World Evidence group, now part of MAI). 
 
 Before my Ph.D., I earned my MD from Kaohsiung Medical University and completed a Master’s in Biomedical Informatics at Harvard Medical School.
+
+**I am currently on the job market!** Feel free to reach out at `mingyulu[at]cs[dot]washington[dot]edu`.
 
 ---
 
