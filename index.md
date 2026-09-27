@@ -6,6 +6,12 @@ layout: default
 
 <img class="profile-picture" src="profile.jpg">
 
+<div style="background-color:#FFF4E5; padding:10px 14px; border-radius:6px; margin-bottom:16px;">
+<strong>I will be on the job market in Fall 2026–Winter 2027.</strong>
+Feel free to reach out at <code>mingyulu[at]cs[dot]washington[dot]edu</code>.
+</div>
+<br>
+
 Hi! I am a final-year Computer Science & Engineering (CSE) Ph.D. student at the University of Washington, advised by [Su-In Lee](https://aims.cs.washington.edu/su-in-lee) in the [AIMS](https://aims.cs.washington.edu/) group. My research focuses on developing **reliable, interpretable, and effective AI systems for biomedicine**. Previously, I collaborated with [Li-wei Lehman](https://web.mit.edu/lilehman/www/), [Zach Shahn](https://sph.cuny.edu/about/people/faculty/zach-shahn/), and [Finale Doshi-Velez](https://finale.seas.harvard.edu/), and interned at the [MIT Laboratory for Computational Physiology](https://lcp.mit.edu/), [Bosch Research](https://www.bosch-ai.com/), and [Microsoft AI (formerly MSR-RWE)](https://www.microsoft.com/en-us/research/group/real-world-evidence/). Before my Ph.D., I earned an MD from Kaohsiung Medical University and a Master’s in Biomedical Informatics from Harvard Medical School.
 
 My current research spans three directions:
@@ -27,7 +33,6 @@ My current research spans three directions:
 
 Across these directions, I am particularly interested in translating advances in AI into real-world impact in healthcare and drug discovery. I have been fortunate to work with many wonderful collaborators and am always excited to connect about new research opportunities.
 
-#### I will be on the job market in Fall 2026–Winter 2027. Feel free to reach out at `mingyulu[at]cs[dot]washington[dot]edu`.
 ---
 
 
