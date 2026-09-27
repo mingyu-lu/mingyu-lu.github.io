@@ -7,7 +7,7 @@ layout: default
 <img class="profile-picture" src="profile.jpg">
 
 <div style="background-color:#FFF4E5; padding:10px 14px; border-radius:6px; margin-bottom:16px;">
-<strong>I will be on the job market in Fall 2026–Winter 2027.</strong>
+<strong>📢 I will be on the job market in Fall 2026–Winter 2027.</strong>
 Feel free to reach out at <code>mingyulu[at]cs[dot]washington[dot]edu</code>.
 </div>
 <br>
