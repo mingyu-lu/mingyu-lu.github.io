@@ -10,14 +10,19 @@ Hi! I am a final-year Computer Science & Engineering (CSE) Ph.D. student at the 
 
 My research focuses on developing **reliable, interpretable, and effective AI systems for biomedicine**, spanning generative models, LLM agents, and clinical decision support.
 
-* **Data attribution for diffusion models**: I develop methods to trace model behavior back to influential data contributors, enabling better understanding, debugging, and auditing of diffusion models, particularly in safety-critical settings such as medical AI.  
-  [[ICLR 2025](https://arxiv.org/abs/2407.03153)] [[ICML 2026](https://arxiv.org/abs/2601.22276)]
+* **Data attribution for diffusion models**: I develop methods to trace model behavior back to influential training data, enabling better understanding, debugging, and auditing of diffusion models.  
+  * **Data Attribution for Diffusion Models** [[ICLR 2025](https://arxiv.org/abs/2407.03153)]
+  * **SurrogateSHAP** [[ICML 2026](https://arxiv.org/abs/2601.22276)]
 
-* **Improving and benchmarking LLM agents for biomedicine**: I study how to build and evaluate LLM-based agents for biomedical tasks, with an emphasis on improving their reasoning, reliability, and ability to support complex scientific and clinical workflows.  
-  [[EMNLP 2025](https://arxiv.org/pdf/2505.21757)] [[arXiv](https://arxiv.org/pdf/2606.31179)]
+* **Improving and benchmarking LLM agents for biomedicine**: I develop and evaluate LLM-based agents for biomedical tasks, with a focus on reliability, reasoning, and realistic healthcare workflows. I also contribute to the **MMBU Challenge** on benchmarking multimodal biomedical understanding.  
+  * **BehaviorSFT** [[EMNLP 2025](https://arxiv.org/pdf/2505.21757)]
+  * **HealthAgentBench** [[arXiv](https://arxiv.org/pdf/2606.31179)]
+  * **MedBLINK** [[arXiv](https://www.arxiv.org/pdf/2508.02951)]
+  * **MMBU Challenge** [[Website](https://akiranishii.github.io/mmbu-challenge/)]
 
-* **Explaining treatment effects with natural language**: I develop AI systems that translate heterogeneous treatment-effect estimates into interpretable natural-language hypotheses, helping researchers understand why treatments may work differently across patient subgroups.  
-  [[NeurIPS 2025](https://arxiv.org/abs/2506.06290)] [[medRxiv](https://www.medrxiv.org/content/10.64898/2026.04.23.26351510v2)]
+* **Interpreting biological and treatment effects with language**: I develop methods that use language to represent and explain complex biological and treatment effects.  
+  * **CellCLIP** [[NeurIPS 2025](https://arxiv.org/abs/2506.06290)]
+  * **ALEX** [[medRxiv](https://www.medrxiv.org/content/10.64898/2026.04.23.26351510v2)]
 
 I am passionate about applying these techniques to accelerate real-world impact in healthcare and drug discovery. I've been fortunate to work with many wonderful collaborators and am always excited to connect on new research opportunities.
 
