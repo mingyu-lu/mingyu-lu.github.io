@@ -14,15 +14,16 @@ My current research spans three directions:
   * **Data Attribution for Diffusion Models** [[*ICLR 2025*](https://arxiv.org/abs/2407.03153)]
   * **SurrogateSHAP** [[*ICML 2026*](https://arxiv.org/abs/2601.22276)]
 
+* **Interpreting biological and treatment effects with language**: I develop methods that use language to represent and explain complex biological and treatment effects.  
+  * **CellCLIP** [[*NeurIPS 2025*](https://arxiv.org/abs/2506.06290)]
+  * **ALEX** [[*medRxiv*](https://www.medrxiv.org/content/10.64898/2026.04.23.26351510v2)]
+    
 * **Improving and benchmarking LLM agents for biomedicine**: I develop and evaluate LLM-based agents for biomedical tasks, with a focus on reliability, reasoning, and realistic healthcare workflows. I also contribute to the **MMBU Challenge** on benchmarking multimodal biomedical understanding.  
   * **BehaviorSFT** [[*EMNLP 2025*](https://arxiv.org/pdf/2505.21757)]
   * **HealthAgentBench** [[*arXiv*](https://arxiv.org/pdf/2606.31179)]
   * **MedBLINK** [[*arXiv*](https://www.arxiv.org/pdf/2508.02951)]
   * **MMBU Challenge** [[*Website*](https://akiranishii.github.io/mmbu-challenge/)]
 
-* **Interpreting biological and treatment effects with language**: I develop methods that use language to represent and explain complex biological and treatment effects.  
-  * **CellCLIP** [[*NeurIPS 2025*](https://arxiv.org/abs/2506.06290)]
-  * **ALEX** [[*medRxiv*](https://www.medrxiv.org/content/10.64898/2026.04.23.26351510v2)]
 
 Across these directions, I am particularly interested in translating advances in AI into real-world impact in healthcare and drug discovery. I have been fortunate to work with many wonderful collaborators and am always excited to connect about new research opportunities.
 
