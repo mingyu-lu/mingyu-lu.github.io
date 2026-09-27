@@ -16,7 +16,7 @@ Hi! I am a final-year Computer Science & Engineering (CSE) Ph.D. student at the 
 My current research spans three directions:
 
 * **Data attribution for diffusion models**: I develop methods to trace model behavior back to influential training data, enabling better understanding, debugging, and auditing of diffusion models.  
-  * Data Attribution for Diffusion Models [[*ICLR 2025*](https://arxiv.org/abs/2407.03153)]
+  * Data Contributor Attribution for Diffusion Models [[*ICLR 2025*](https://arxiv.org/abs/2407.03153)]
   * SurrogateSHAP [[*ICML 2026*](https://arxiv.org/abs/2601.22276)]
 
 * **Interpreting biological and treatment effects with language**: I develop methods that use language to represent and explain complex biological and treatment effects.  
