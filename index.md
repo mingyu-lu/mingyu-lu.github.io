@@ -6,9 +6,9 @@ layout: default
 
 <img class="profile-picture" src="profile.jpg">
 
-Hi! I am a final-year Computer Science & Engineering (CSE) Ph.D. student at the University of Washington, advised by [Su-In Lee](https://aims.cs.washington.edu/su-in-lee) in the [Artificial Intelligence for Biological and Medical Sciences (AIMS)](https://aims.cs.washington.edu/) group. My current research focuses on:
+Hi! I am a final-year Computer Science & Engineering (CSE) Ph.D. student at the University of Washington, advised by [Su-In Lee](https://aims.cs.washington.edu/su-in-lee) in the [AIMS](https://aims.cs.washington.edu/) group. My research focuses on developing **reliable, interpretable, and effective AI systems for biomedicine**. Previously, I collaborated with [Li-wei Lehman](https://web.mit.edu/lilehman/www/), [Zach Shahn](https://sph.cuny.edu/about/people/faculty/zach-shahn/), and [Finale Doshi-Velez](https://finale.seas.harvard.edu/), and interned at the [MIT Laboratory for Computational Physiology](https://lcp.mit.edu/), [Bosch Research](https://www.bosch-ai.com/), and [Microsoft AI](https://www.microsoft.com/en-us/research/group/real-world-evidence/). Before my Ph.D., I earned an MD from Kaohsiung Medical University and a Master’s in Biomedical Informatics from Harvard Medical School.
 
-My research focuses on developing **reliable, interpretable, and effective AI systems for biomedicine**, spanning generative models, LLM agents, and clinical decision support.
+My current research spans three directions:
 
 * **Data attribution for diffusion models**: I develop methods to trace model behavior back to influential training data, enabling better understanding, debugging, and auditing of diffusion models.  
   * **Data Attribution for Diffusion Models** [[*ICLR 2025*](https://arxiv.org/abs/2407.03153)]
@@ -24,14 +24,9 @@ My research focuses on developing **reliable, interpretable, and effective AI sy
   * **CellCLIP** [[*NeurIPS 2025*](https://arxiv.org/abs/2506.06290)]
   * **ALEX** [[*medRxiv*](https://www.medrxiv.org/content/10.64898/2026.04.23.26351510v2)]
 
-I am passionate about applying these techniques to accelerate real-world impact in healthcare and drug discovery. I've been fortunate to work with many wonderful collaborators and am always excited to connect on new research opportunities.
+Across these directions, I am particularly interested in translating advances in AI into real-world impact in healthcare and drug discovery. I have been fortunate to work with many wonderful collaborators and am always excited to connect about new research opportunities.
 
-### Background
-Previously, I collaborated with [Li-wei Lehman](https://web.mit.edu/lilehman/www/), [Zach Shahn](https://sph.cuny.edu/about/people/faculty/zach-shahn/), and [Finale Doshi-Velez](https://finale.seas.harvard.edu/) at Harvard and MIT. I have also spent summers interning at academic and industrial research labs, including the [Laboratory for Computational Physiology](https://lcp.mit.edu/) at MIT, [Bosch Research](https://www.bosch-ai.com/), and [Microsoft AI (formerly MSR-RWE)](https://www.microsoft.com/en-us/research/group/real-world-evidence/). 
-
-Before my Ph.D., I earned my MD from Kaohsiung Medical University and completed a Master’s in Biomedical Informatics at Harvard Medical School.
-
-#### I plan to be on the job market in Fall 2026 – Winter 2027! Feel free to reach out at `mingyulu[at]cs[dot]washington[dot]edu`.
+#### I will be on the job market in Fall 2026–Winter 2027. Feel free to reach out at `mingyulu[at]cs[dot]washington[dot]edu`.
 ---
 
 
