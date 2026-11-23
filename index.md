@@ -18,16 +18,16 @@ My research focuses on developing **reliable and efficient attribution methods f
 My research broadly focuses on two complementary areas:
 
 * **Attribution and Explainability for AI Systems**
-  * **Data contributor attribution:** Tracing generative model behavior back to influential training data.
+  * **Data contributor attribution:** Tracing generative model behavior back to data contributors.
     * Data Contributor Attribution for Diffusion Models [[*ICLR 2025*](https://arxiv.org/abs/2407.03153)]
     * SurrogateSHAP [[*ICML 2026*](https://arxiv.org/abs/2601.22276)]
-  * **Agent attribution:** Quantifying individual agent contributions to collective behavior in multi-agent systems.
+  * **Agent attribution:** Quantifying individual agent contributions within multi-agent systems.
     * Agents that Matter [[*arXiv*](https://arxiv.org/pdf/2605.27621)]
   * **Feature attribution and natural language explanations:** Using natural language to interpret feature attributions and explain complex biological and treatment effects.
     * CellCLIP [[*NeurIPS 2025*](https://arxiv.org/abs/2506.06290)]
     * ALEX [[*medRxiv*](https://www.medrxiv.org/content/10.64898/2026.04.23.26351510v2)]
 
-* **Developing and benchmarking LLM agents for biomedicine:** Improving agent reasoning and reliability in real-world healthcare workflows and benchmarking multimodal biomedical understanding through the **MMBU Challenge**.
+* **Developing and benchmarking LLM agents for biomedicine:** Evaluating LLMs & agents for biomedical tasks, with a focus on reliability, reasoning, and realistic healthcare workflows. I also contribute to the **MMBU Challenge** on benchmarking multimodal biomedical understanding.
   * BehaviorSFT [[*EMNLP 2025*](https://arxiv.org/pdf/2505.21757)]
   * HealthAgentBench [[*arXiv*](https://arxiv.org/pdf/2606.31179)] [[*Website*](https://microsoft.github.io/HealthAgentBench/)]
   * MedBLINK [[*arXiv*](https://www.arxiv.org/pdf/2508.02951)] [[*Website*](https://medblink-benchmark.github.io/)]
