@@ -13,7 +13,7 @@ Feel free to reach out at <code>mingyulu[at]cs[dot]washington[dot]edu</code>.
 
 Hi! I am a final-year Computer Science & Engineering (CSE) Ph.D. student at the University of Washington, advised by [Su-In Lee](https://aims.cs.washington.edu/su-in-lee) in the [AIMS](https://aims.cs.washington.edu/) group. 
 
-My research focuses on developing **reliable and efficient attribution methods for AI systems**—methods that identify and quantify how different factors, such as training data, input features, and individual agents, contribute to the behavior of AI systems. My broader goal is to make AI systems more interpretable, reliable, and auditable, particularly in high-stakes domains such as biomedicine. Previously, I collaborated with [Li-wei Lehman](https://web.mit.edu/lilehman/www/), [Zach Shahn](https://sph.cuny.edu/about/people/faculty/zach-shahn/), and [Finale Doshi-Velez](https://finale.seas.harvard.edu/), and interned at the [MIT Laboratory for Computational Physiology](https://lcp.mit.edu/), [Bosch Research](https://www.bosch-ai.com/), and [Microsoft AI (formerly MSR-RWE)](https://www.microsoft.com/en-us/research/group/real-world-evidence/). Before my Ph.D., I earned an MD from Kaohsiung Medical University and a Master’s in Biomedical Informatics from Harvard Medical School.
+My research focuses on developing **reliable and efficient attribution methods for AI systems**—methods that identify and quantify how different factors, such as training data, input features, and individual agents, contribute to the behavior of AI systems. More broadly, I am particularly interested in translating advances in AI into real-world impact in healthcare. I have been fortunate to work with many wonderful collaborators and am always excited to connect about new research opportunities. Previously, I collaborated with [Li-wei Lehman](https://web.mit.edu/lilehman/www/), [Zach Shahn](https://sph.cuny.edu/about/people/faculty/zach-shahn/), and [Finale Doshi-Velez](https://finale.seas.harvard.edu/), and interned at the [MIT Laboratory for Computational Physiology](https://lcp.mit.edu/), [Bosch Research](https://www.bosch-ai.com/), and [Microsoft AI (formerly MSR-RWE)](https://www.microsoft.com/en-us/research/group/real-world-evidence/). Before my Ph.D., I earned an MD from Kaohsiung Medical University and a Master’s in Biomedical Informatics from Harvard Medical School.
 
 My research broadly focuses on two complementary areas:
 
@@ -32,9 +32,6 @@ My research broadly focuses on two complementary areas:
   * HealthAgentBench [[*arXiv*](https://arxiv.org/pdf/2606.31179)] [[*Website*](https://microsoft.github.io/HealthAgentBench/)]
   * MedBLINK [[*arXiv*](https://www.arxiv.org/pdf/2508.02951)] [[*Website*](https://medblink-benchmark.github.io/)]
   * MMBU Challenge [[*Website*](https://akiranishii.github.io/mmbu-challenge/)]
-
-
-Across these directions, I am particularly interested in translating advances in AI into real-world impact in healthcare. I have been fortunate to work with many wonderful collaborators and am always excited to connect about new research opportunities.
 
 ---
 
