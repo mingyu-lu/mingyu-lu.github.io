@@ -22,7 +22,7 @@ My research broadly focuses on two complementary areas:
     * Data Contributor Attribution for Diffusion Models [[*ICLR 2025*](https://arxiv.org/abs/2407.03153)]
     * SurrogateSHAP [[*ICML 2026*](https://arxiv.org/abs/2601.22276)]
   * **Agent attribution:** Quantifying individual agent contributions to collective behavior in multi-agent systems.
-    * Agents that Matter: How Subtle Choices Shape Agent Attribution in Multi-Agent Systems [[*arXiv*](https://arxiv.org/pdf/2605.27621)]
+    * Agents that Matter [[*arXiv*](https://arxiv.org/pdf/2605.27621)]
   * **Feature attribution and natural language explanations:** Using natural language to interpret feature attributions and explain complex biological and treatment effects.
     * CellCLIP [[*NeurIPS 2025*](https://arxiv.org/abs/2506.06290)]
     * ALEX [[*medRxiv*](https://www.medrxiv.org/content/10.64898/2026.04.23.26351510v2)]
