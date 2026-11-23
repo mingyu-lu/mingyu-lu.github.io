@@ -13,22 +13,21 @@ Feel free to reach out at <code>mingyulu[at]cs[dot]washington[dot]edu</code>.
 
 Hi! I am a final-year Computer Science & Engineering (CSE) Ph.D. student at the University of Washington, advised by [Su-In Lee](https://aims.cs.washington.edu/su-in-lee) in the [AIMS](https://aims.cs.washington.edu/) group. 
 
-My research focuses on developing **reliable and efficient attribution methods for AI systems—methods** that identify and quantify how different factors, such as training data, input features, and individual agents, contribute to the behavior of AI systems. My broader goal is to make AI systems more interpretable, reliable, and auditable, particularly in high-stakes domains such as biomedicine. Previously, I collaborated with [Li-wei Lehman](https://web.mit.edu/lilehman/www/), [Zach Shahn](https://sph.cuny.edu/about/people/faculty/zach-shahn/), and [Finale Doshi-Velez](https://finale.seas.harvard.edu/), and interned at the [MIT Laboratory for Computational Physiology](https://lcp.mit.edu/), [Bosch Research](https://www.bosch-ai.com/), and [Microsoft AI (formerly MSR-RWE)](https://www.microsoft.com/en-us/research/group/real-world-evidence/). Before my Ph.D., I earned an MD from Kaohsiung Medical University and a Master’s in Biomedical Informatics from Harvard Medical School.
+My research focuses on developing **reliable and efficient attribution methods for AI systems**—methods that identify and quantify how different factors, such as training data, input features, and individual agents, contribute to the behavior of AI systems. My broader goal is to make AI systems more interpretable, reliable, and auditable, particularly in high-stakes domains such as biomedicine. Previously, I collaborated with [Li-wei Lehman](https://web.mit.edu/lilehman/www/), [Zach Shahn](https://sph.cuny.edu/about/people/faculty/zach-shahn/), and [Finale Doshi-Velez](https://finale.seas.harvard.edu/), and interned at the [MIT Laboratory for Computational Physiology](https://lcp.mit.edu/), [Bosch Research](https://www.bosch-ai.com/), and [Microsoft AI (formerly MSR-RWE)](https://www.microsoft.com/en-us/research/group/real-world-evidence/). Before my Ph.D., I earned an MD from Kaohsiung Medical University and a Master’s in Biomedical Informatics from Harvard Medical School.
 
-My current research spans various directions:
+My research broadly focuses on two complementary areas:
 
-* **Data contributor attribution for diffusion models**: I develop methods to trace model behavior back to influential training data, enabling better understanding, debugging, and auditing of diffusion models.  
-  * Data Contributor Attribution for Diffusion Models [[*ICLR 2025*](https://arxiv.org/abs/2407.03153)]
-  * SurrogateSHAP [[*ICML 2026*](https://arxiv.org/abs/2601.22276)]
+* **Attribution and Explainability for AI Systems**
+  * **Data contributor attribution:** Tracing generative model behavior back to influential training data.
+    * Data Contributor Attribution for Diffusion Models [[*ICLR 2025*](https://arxiv.org/abs/2407.03153)]
+    * SurrogateSHAP [[*ICML 2026*](https://arxiv.org/abs/2601.22276)]
+  * **Agent attribution:** Quantifying individual agent contributions to collective behavior in multi-agent systems.
+    * Agents that Matter: How Subtle Choices Shape Agent Attribution in Multi-Agent Systems [[*arXiv*](https://arxiv.org/pdf/2605.27621)]
+  * **Feature attribution and natural language explanations:** Using natural language to interpret feature attributions and explain complex biological and treatment effects.
+    * CellCLIP [[*NeurIPS 2025*](https://arxiv.org/abs/2506.06290)]
+    * ALEX [[*medRxiv*](https://www.medrxiv.org/content/10.64898/2026.04.23.26351510v2)]
 
-* **Agent Attribution for multi-agentic system**: I investigate how individual agents contribute to collective system behavior and how attribution design choices shape our understanding of agent contributions.
-  * Agents that Matter: How Subtle Choices Shape Agent Attribution in Multi-Agent Systems [[*arXiv*](https://arxiv.org/pdf/2605.27621)]**
-
-* **Interpreting feature attribution with natural language**: I develop methods that use language to represent and explain complex biological and treatment effects.  
-  * CellCLIP [[*NeurIPS 2025*](https://arxiv.org/abs/2506.06290)]
-  * ALEX [[*medRxiv*](https://www.medrxiv.org/content/10.64898/2026.04.23.26351510v2)]
-    
-* **Improving and benchmarking LLM agents for biomedicine**: I also help develop and evaluate LLM-based agents for biomedical tasks, with a focus on reliability, reasoning, and realistic healthcare workflows. I also contribute to the **MMBU Challenge** on benchmarking multimodal biomedical understanding.  
+* **Developing and benchmarking LLM agents for biomedicine:** Improving agent reasoning and reliability in real-world healthcare workflows and benchmarking multimodal biomedical understanding through the **MMBU Challenge**.
   * BehaviorSFT [[*EMNLP 2025*](https://arxiv.org/pdf/2505.21757)]
   * HealthAgentBench [[*arXiv*](https://arxiv.org/pdf/2606.31179)] [[*Website*](https://microsoft.github.io/HealthAgentBench/)]
   * MedBLINK [[*arXiv*](https://www.arxiv.org/pdf/2508.02951)] [[*Website*](https://medblink-benchmark.github.io/)]
